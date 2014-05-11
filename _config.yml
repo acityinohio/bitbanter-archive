@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Bitbanter 
+tagline:          The musings of a renersatz man. 
+description:      The musings of a renersatz man. 
+url:              http://bitbanter.com
+
+author:
+  name:           Josh Cincinnati 
+  url:            https://twitter.com/acityinohio
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/acityinohio/bitbanter
+
+# List of pages to include in header
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
