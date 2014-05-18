@@ -23,13 +23,13 @@ Three paragraphs ago I promised I would stick to the point, and yet here we are,
 
 But really, what is my angle here? (Angles? Ha hah!...ahh, okay I'll stop) How does any of this relate to creativity, writing (or long periods not writing), inspiration and all that jazz? And why does jazz suddenly make an appearance? Am I going to start waxing poetic about Oscar Peterson and the finer points of jazz piano? No, but you absolutely should tip a toe into Peterson's pool. Oscar's blues could make a red turn yellow.
 
-Right, so, my shtick. My shtick is really my identity, and from it I derive (last one I swear!) a deep sense of purpose. There's a mutually beneficial feedback loop to crafting humor; the more I make, the more laughs I (hopefully) generate, and the more it drives me to write and joke. Even (and especially) failed attempts at humor teach me a great deal about constructing better jokes and narratives, which consequently helps creates more meaning in my life.
+Right, so, my shtick. My shtick is really my identity, and from it I derive (last one I swear!) a deep sense of purpose. There's a mutually beneficial feedback loop to crafting humor; the more I make, the more laughs I (hopefully) generate, and the more it drives me to write and joke. Even (and especially) failed attempts at humor teach me a great deal about constructing better jokes and narratives, which consequently helps create more meaning in my life.
 
 And as it turns out, this beautiful loop turns into an absolute shit-singularity when you add the gravity of chronic pain. 
 
 ## No One Likes a Shtick in the Mud
 
-I've said it before, and I'll say it again: I don't like to whine about my medical issues. No one likes a whiner, and I try to keep my bitching and moaning under wraps. But for the purposes of this (now practically exegetic) post, I think it's important to confront the full effects of chronic pain. Not simply the first degree of discomfort and pain, but the continued assault on the human psyche that constant, unstoppable pain generates.
+I've said it before, and I'll say it again: I don't like to whine about my medical issues. No one likes a whiner, and I try to keep my bitching and moaning under wraps. But for the purposes of this post, I think it's important to confront the full effects of chronic pain. Not simply the first degree of discomfort and pain, but the continued assault on the human psyche that constant, unstoppable pain generates.
 
 It starts as mere annoyance. You become more easily distracted and irritable. As the months slowly, inexorably melt into years, your outlook on everything sours. A bleak cynicism grips your soul. You resign yourself to a life corrupted. The life that you should treasure, the productive and the social and the meaningful, become mere footnotes to one unyielding constant: the pain that refuses to dissipate.
 
