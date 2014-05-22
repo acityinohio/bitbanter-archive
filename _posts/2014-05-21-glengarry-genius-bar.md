@@ -50,7 +50,7 @@ title: Glengarry Genius Bar
 
 *Moss:* Yeah.
 
-*Blake:* That watch is a pre-production iWatch prototype. It costs more than you car. I made $1 in salary and ten million in back-dated stock options last year. How much'd you make? You see pal, that's who I am, and you're nothing. Good Guy Greg? I don't give a shit. Contribute to Open Source? Fuck you! Go home and play with yourself. You wanna work here - fix! You think this is abuse? 
+*Blake:* That watch is a pre-production iWatch prototype. It costs more than your car. I made $1 in salary and ten million in back-dated stock options last year. How much'd you make? You see pal, that's who I am, and you're nothing. Good Guy Greg? I don't give a shit. Contribute to Open Source? Fuck you! Go home and play with yourself. You wanna work here - fix! You think this is abuse? 
 
 *Blake inexplicably stares at Alan Arkin poster and goes on miniature tirade*
 
