@@ -34,7 +34,7 @@ title: Glengarry Genius Bar
 
 *Moss:* What's your AppleID?
 
-*Blake:* Fuck you. That's my AppleID. You know why, mister? You drove a Hyundai to get here. I drove an eighty-thousand dollar Tesla. THAT'S my AppleID. And your's is you're wanting. You can't play in the man's game, you can't fix a teenager's Macbook Air - go home and tell your Roomba your troubles. Because only one thing counts in this life: maintaining the Reality Distortion Field. Getting them to believe that Apple products aren't commoditized Chinese lumps of aluminum by fixing those fuckers on the drop of a hat. You hear me you fucking bozos?
+*Blake:* Fuck you. That's my AppleID. You know why, mister? You drove a Hyundai to get here. I drove an eighty-thousand dollar Tesla. THAT'S my AppleID. And yours is you're wanting. You can't play in the man's game, you can't fix a teenager's Macbook Air - go home and tell your Roomba your troubles. Because only one thing counts in this life: maintaining the Reality Distortion Field. Getting them to believe that Apple products aren't commoditized Chinese lumps of aluminum by fixing those fuckers on the drop of a hat. You hear me you fucking bozos?
 
 *Blake presses a button on his iPhone, starting a hidden Keynote presentation*
 
