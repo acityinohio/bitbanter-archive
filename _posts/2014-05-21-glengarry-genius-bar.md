@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Glengarry Genius Bar
-thumb: 2014-05-21-glengarry-genius-bar.webp
+thumb: 2014-05-21-glengarry-genius-bar.png
 ---
 
-![The Best Photoshop I Could Do of Alec Baldwin as Jobs](/assets/2014-05-21-glengarry-genius-bar.webp)
+*  *Alec Baldwin as Blake.*
+*  *Kevin Spacey as Williamson.*
+*  *Ed Harris as Moss.*
+*  *Holographic Jack Lemmon as Levene.*
 
-* *Alec Baldwin as Blake*
-* *Kevin Spacey as Williamson*
-* *Ed Harris as Moss*
-* *Holographic Jack Lemmon as Levene*
+![The Best Photoshop I Could Do of Alec Baldwin as Jobs](/assets/2014-05-21-glengarry-genius-bar.png)
 
 *Our scene opens at an Apple Store. It's late and raining, the constant patter of water droplets assaulting 5 sides of the store's cube-like, glassy exterior. Moss and Levene are looking perturbed, mumbling to themselves behind the Genius Bar. There's an incongruous poster of Alan Arkin, silently staring at them from behind.*
 

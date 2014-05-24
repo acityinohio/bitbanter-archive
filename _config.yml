@@ -14,6 +14,7 @@ url:              http://bitbanter.com
 author:
   name:           Josh Cincinnati 
   url:            https://twitter.com/acityinohio
+  twit:           acityinohio
 
 paginate:         1
 
@@ -21,7 +22,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/acityinohio/bitbanter
+  repo:           https://github.com/ACityInOhio/ACityInOhio.github.io 
 
 # List of pages to include in header
 pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
