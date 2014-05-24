@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Glengarry Genius Bar
+thumb: 2014-05-21-glengarry-genius-bar.webp
 ---
 
 ![The Best Photoshop I Could Do of Alec Baldwin as Jobs](/assets/2014-05-21-glengarry-genius-bar.webp)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google's Chromecast Fits Into TV, Comcast's Unprotected Asshole
+thumb: 2013-07-28-comcast-chromecast.svg
 ---
 
 *Customers love the snug fit; Comcast, not so much*

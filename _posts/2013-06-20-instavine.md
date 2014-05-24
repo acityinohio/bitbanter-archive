@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Facebook Reshares Vine through Instagram
+thumb: 2013-06-20-instavine.svg
 ---
 
 *Company cleverly rebrands "stealing ideas" as "resharing"*

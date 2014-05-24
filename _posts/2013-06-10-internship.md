@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "\'The Internship\' Fails to Promote Google Through World's Bluntest Advertising Medium"
+thumb: 2013-06-10-internship.svg
 ---
 
 *It's almost as if corporate propaganda movies are relics of a shittier era*

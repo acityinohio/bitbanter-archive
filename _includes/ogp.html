@@ -1,0 +1,23 @@
+{% capture header %}
+
+{% if page.title == "Home" %}
+	<meta property="og:type" content="website" />	
+{% else %}
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="{{ page.title }}" />
+{% endif %}
+
+{% include meta.html property="og:site_name" content=site.title %}
+
+{% if page.thumb %}
+	{% capture image_url %}{{ site.url }}/assets/{{ page.thumb }}{% endcapture %}
+	{% include meta.html property="og:image" content=image_url %}
+{% endif %}
+
+{% capture page_url %}{{ site.url }}{{ page.url | replace:'/index.html','/' }}{% endcapture %}
+{% include meta.html property="og:url" content=page_url %}
+
+<meta property="article:author" content="{{ site.author.url }}" />
+<link rel="author" href="{{ site.author.url }}" />
+
+{% endcapture %}{{ header | strip_newlines }}

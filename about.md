@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+thumb: profile.jpg
 ---
 
 ![My ugly mug](/assets/profile.jpg)

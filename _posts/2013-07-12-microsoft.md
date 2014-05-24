@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Microsoft Reorganizes Company To Match Chaotic Clusterfuck that is Windows 8
+thumb: 2013-07-12-microsoft.svg
 ---
 
 *Balmer: "Our Company Must Look Like Our Software: Haphazardly Designed and Infinitely Frustrating"*
