@@ -5,7 +5,7 @@ title: "Dr. Reid Hoffman or: How I Learned to Stop Worrying and Love Man-In-The-
 
 *An excerpt from a recent board meeting*
 
-Not Very Secret Underground Conference Room, LinkedIn HQ, Mountain View -- Gentlemen, I have a confession to make: I don't drink municipal water. And why should I? The NSA has access to my water utility's metadata. I won't let the waxing and waning of my bodily fluids put me on a watch list. That's why I drink nothing but Coke Zero by way of Amazon Subscribe-and-Save. Checkmate, nanny state.
+Not Very Secret Underground Conference Room, LinkedIn HQ, Mountain View---Gentlemen, I have a confession to make: I don't drink municipal water. And why should I? The NSA has access to my water utility's metadata. I won't let the waxing and waning of my bodily fluids put me on a watch list. That's why I drink nothing but Coke Zero by way of Amazon Subscribe-and-Save. Checkmate, nanny state.
 
 ...what? Yes, of course you idiot, I know Jeff Bezos will have my data instead of the government. But he's a private citizen goddammit, and he's rich enough to be entitled to my data.
 

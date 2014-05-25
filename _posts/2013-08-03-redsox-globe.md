@@ -5,7 +5,7 @@ title: Red Sox Owner Buys Boston Globe, Creating Globe's Last Relevant Headline
 
 *Reorganization underway to make final meaningful article "a solid triple"*
 
-Boston, MA -- The Boston Globe is preparing to enter a whole new ball game, as its ownership transitions from the New York Times to the no-longer-business-savvy reigns of Red Sox owner John Henry. While newspapers aren't exactly Henry's wheelhouse, he's seemingly unworried. "It ain't over ‘til it's over!" exclaimed the principal owner of the Red Sox, demonstrating both the down-to-Earth tenacity and complete ignorance of fundamentals his team makes famous on a yearly basis.
+Boston, MA---The Boston Globe is preparing to enter a whole new ball game, as its ownership transitions from the New York Times to the no-longer-business-savvy reigns of Red Sox owner John Henry. While newspapers aren't exactly Henry's wheelhouse, he's seemingly unworried. "It ain't over ‘til it's over!" exclaimed the principal owner of the Red Sox, demonstrating both the down-to-Earth tenacity and complete ignorance of fundamentals his team makes famous on a yearly basis.
 
 Henry shared his bold vision to a Boston Globe reporter, who was subsequently told to post his findings into a tightly controlled, paywalled article. "This isn't really a hail mary. Mainly because we're not talking about football. No, this is more like a swing for the fences right after the 7th inning stretch." Henry's plan is simple: the Globe will pin its hopes on its last relevant, self-referential article about its forthcoming purchase. While this would normally be a commodity news item worth $120 from AP or Reuters, Henry believes that extraordinary measures will recoup his investment.
 

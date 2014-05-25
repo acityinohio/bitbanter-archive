@@ -5,7 +5,7 @@ title: Horrendous, Unending Stream of Facile Government Shutdown Jokes Finally S
 
 *Congress does us all a great public service, ends cacophony of toddler-grade humor*
 
-Your Twitter Feed, the Internet -- Your representatives in Congress have finally put an end to our national nightmare of increasingly hopeless, despairingly sad shutdown humor. Gone are the days when your feeds would be filled with childlike computer metaphors for our nuanced system of governance, where 80% of your news was filled with lackluster Photoshops of "Blue Screens of Death."
+Your Twitter Feed, the Internet---Your representatives in Congress have finally put an end to our national nightmare of increasingly hopeless, despairingly sad shutdown humor. Gone are the days when your feeds would be filled with childlike computer metaphors for our nuanced system of governance, where 80% of your news was filled with lackluster Photoshops of "Blue Screens of Death."
 
 "The last 17 days have been an unmitigated, cognitive disaster," said President Obama in a speech announcing the end of the Internet-destabilizing vomitstream that some commentators called "the anti-singularity of creative thought." 
 

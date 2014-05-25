@@ -11,7 +11,7 @@ Anyway, let me start by saying you're the kind of man who intuitively "groks" op
 
 What? No, I don't want a candy bar. Thanks, but I've been reading the 4 Hour Body and I'm trying to stay away from-- yes, I agree that 100 Grand is the best chocolate bar around. I just don't want the sugar right no-- okay, FINE. Fine, but I'm saving it for later, okay? Good.
 
-Like I was saying...you're a man who likes taking risks. And, as we both know from your choice of television and candy bars, you're a man of high taste and discerning judgment. That's why I'm talking to you -- before anyone else -- about my revolutionary new mobile photo-sharing app. Oh, I know that look popop. Another mobile photo-sharing app? How will I blaze a new trail in this saturated market? Yes, yes, I know that look well.
+Like I was saying...you're a man who likes taking risks. And, as we both know from your choice of television and candy bars, you're a man of high taste and discerning judgment. That's why I'm talking to you---before anyone else---about my revolutionary new mobile photo-sharing app. Oh, I know that look popop. Another mobile photo-sharing app? How will I blaze a new trail in this saturated market? Yes, yes, I know that look well.
 
 Here's the rub. Everyone talks about "Android first" or "Apple first" on mobile. They're missing the huge gorilla in the room. You know the one I'm talking about, right popop?
 

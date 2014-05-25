@@ -8,7 +8,7 @@ thumb: 2013-07-12-microsoft.svg
 
 ![Windows Ugh](/assets/2013-07-12-microsoft.svg)
 
-Redmond, WA -- Microsoft announced sweeping changes to its organizational structure today, hoping to transform its well-oiled, logically-siloed money-making enterprise into a smorgasbord of interdependent roles void of accountability and reason.
+Redmond, WA---Microsoft announced sweeping changes to its organizational structure today, hoping to transform its well-oiled, logically-siloed money-making enterprise into a smorgasbord of interdependent roles void of accountability and reason.
 
 In the memo announcing the changes, CEO Steve Ballmer detailed his vision in a section titled "Time for the Drapes to Match the Windows." Ballmer pointed out Microsoft's consistent record of making illogical, painfully designed software that enterprise-locked customers dream of ragequitting. He claims that Microsoft could leverage knowledge from its software and create "irrational consistency" in its product/organizational line (also marking the first time anyone has claimed learning anything from Microsoft products, excepting hand-eye coordination from the Xbox).
 

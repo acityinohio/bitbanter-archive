@@ -8,7 +8,7 @@ thumb: 2013-07-28-comcast-chromecast.svg
 
 ![Oh yeah that's the spot](/assets/2013-07-28-comcast-chromecast.svg)
 
-Mountain View, CA -- Google released the Chromecast earlier this week, delightfully surprising consumers while filling Comcast with the inescapable dread of an inevitable ass-raping. What's got customers trembling with excitement while Comcast desperately searches for Vaseline? The Chromecast, a $35 dongle, enables streaming video from a wide array of Internet-connected devices; all while streaming anti-monopolistic hate-splooge directly into Comcast's exposed, brown-tinted starfish.
+Mountain View, CA---Google released the Chromecast earlier this week, delightfully surprising consumers while filling Comcast with the inescapable dread of an inevitable ass-raping. What's got customers trembling with excitement while Comcast desperately searches for Vaseline? The Chromecast, a $35 dongle, enables streaming video from a wide array of Internet-connected devices; all while streaming anti-monopolistic hate-splooge directly into Comcast's exposed, brown-tinted starfish.
 
 Early reviews are generally positive; customers and Comcast seem surprised by the amount of pleasure and pain derived from the 3 inch-long device, respectively. "Chromecast makes my overpriced cable subscription obsolete! It's what I've always wanted from Comcast, along with three extra letters," noted both a statistically average American consumer and a Comcast SVP in very different tones.
 

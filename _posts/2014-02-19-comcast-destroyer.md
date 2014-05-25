@@ -5,7 +5,7 @@ title: Combined Comcast/Time Warner to Rebrand as "Mephistopheles, Destroyer of 
 
 *"All shall tremble before our insatiable power and consumer-friendly synergy," claims SVP*
 
-New York, NYC -- In a broadcast that interrupted all Internet, phone, and television transmissions to Comcast/TWC's combined subscriber base of 30 million, Comcast's SVP of Public Relations/Chief Archon of the Destroyer announced sweeping changes to the soon-to-be-formed telecom giant.
+New York, NYC---In a broadcast that interrupted all Internet, phone, and television transmissions to Comcast/TWC's combined subscriber base of 30 million, Comcast's SVP of Public Relations/Chief Archon of the Destroyer announced sweeping changes to the soon-to-be-formed telecom giant.
 
 "Make no attempt to ignore the Voice of the Destroyer; thanks to our competitive and convenient Triple Play bundles of voice/cable/Internet, ye mortals cannot escape our missive," started Chief Archon Brandenburg, wearing an Armani-designed Robe of the Bloodied. Flames licked his cheeks, and as his eyes glowed magma-red, he continued, "We are no longer the fragmented shadows We once were. Our once-shattered soul has entered the Final Covenant, and post-merger, Comcast/TWC shall spill forth from its chrysalis like a moth from a behemoth cocoon. The world shall stand frozen before Mephistopheles, Master Destroyer, Bringer of Oblivion and Harbinger of DOOM!"
 

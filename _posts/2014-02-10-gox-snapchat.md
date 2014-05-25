@@ -5,7 +5,7 @@ title: Mt.Gox Reopens Bitcoin Withdrawals Via Snapchatting QR Codes of Private K
 
 *"Fundamental problems with the bitcoin protocol make this the only workable solution," claims Mt.Gox*
 
-Tokyo, Japan -- After halting bitcoin withdrawals due to "fundamental issues with the bitcoin protocol" that have yet to effect any other exchange, Mt.Gox announced a sudden change of heart and will allow limited bitcoin withdrawals. Unfortunately, due to lingering issues with the bitcoin protocol (and "definitely not gross incompetence or malfeasance," clarified Mt.Gox in a recent press release) the only method for withdrawals are Snapchats of private keys.
+Tokyo, Japan---After halting bitcoin withdrawals due to "fundamental issues with the bitcoin protocol" that have yet to effect any other exchange, Mt.Gox announced a sudden change of heart and will allow limited bitcoin withdrawals. Unfortunately, due to lingering issues with the bitcoin protocol (and "definitely not gross incompetence or malfeasance," clarified Mt.Gox in a recent press release) the only method for withdrawals are Snapchats of private keys.
 
 Mt.Gox has provided the general public with the full process for withdrawals: First, users must submit their date of birth, full name, blood type, social security number (if a US citizen), a recent passport photo, and their Snapchat user name. Users then take a photo of themselves with their Mt.Gox account open on a computer screen to demonstrate account ownership.
 

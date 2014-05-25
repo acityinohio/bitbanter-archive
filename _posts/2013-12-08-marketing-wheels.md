@@ -5,7 +5,7 @@ title: New Startup Reinvents Marketing Wheels
 
 *Pointless product made seemingly irresistible through massive behavioral manipulation*
 
-Not Even Close to Copenhagen -- In a literally brain-stunning announcement today, Superpedestrian, Inc. unveiled the "Copenhagen Wheel" to stupefied audiences everywhere, making millions salivate at the prospect of spending $700 to ruin their otherwise perfectly functional bicycles.
+Not Even Close to Copenhagen---In a literally brain-stunning announcement today, Superpedestrian, Inc. unveiled the "Copenhagen Wheel" to stupefied audiences everywhere, making millions salivate at the prospect of spending $700 to ruin their otherwise perfectly functional bicycles.
 
 The "Copenhagen Wheel," which was named semi-randomly through circular reasoning, is a sophisticated electrical motor and battery array that attaches to fixed-gear bespoke bicycles purchased from San Francisco's Mission District. In addition to increasing the weight of your bicycle by 300%, the Wheel transforms the limitless range of the pinnacle of human-powered transport into 40 km, unless you happen to be the secret, fictional lovechild of a doped-up Lance Armstrong and Wonder Woman. Undue complexity is layered into the Wheel through various wireless signals and required smartphone apps, while the Wheel will paradoxically turn your now-worthless mode of transport into a prime target for thieves, as they, too, have been swindled into believing the Wheel confers some some magical worth to a bicycle by systematically removing everything that made it intrinsically valuable.
 

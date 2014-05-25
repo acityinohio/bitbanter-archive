@@ -5,7 +5,7 @@ title: "\"Stop Trying To Be Steve Jobs\" Demands Blogger Who\'s Just Like Steve 
 
 *Apple-loving prick is entitled, condescending asshole*
 
-Macbook Air, Nameless Boutique Coffee Shop, Brooklyn -- Marco Gruber Siegler was having a bad day. "You'd think these bozos could serve a simple single-origin espresso, soy flat white at the right temperature. What a bunch of morons." The MG, as he occasionally calls himself, was in the habit of correcting idiots and it was taking its toll.
+Macbook Air, Nameless Boutique Coffee Shop, Brooklyn---Marco Gruber Siegler was having a bad day. "You'd think these bozos could serve a simple single-origin espresso, soy flat white at the right temperature. What a bunch of morons." The MG, as he occasionally calls himself, was in the habit of correcting idiots and it was taking its toll.
 
 According to his blog's about page, The MG has loved Apple products "totally before anyone else, like some kind of ahead-of-his-time product visionary." Now that Apple dominates the technology world, The MG has catapulted into the limelight. From his lofty virtual perch above all other plebeian technologists, The MG regularly dispenses severe admonitions to would-be Jobs pretenders.
 

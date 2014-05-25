@@ -5,7 +5,7 @@ title: "[Semi-Serious] Bitbanter's Newfound Egocentrism, My Absence, and My Anti
 
 *A diversion from my normal diversions*
 
-As Bitbanter's seasoned readers (which at last count included me, my friend Paul, and my mother whenever I send her a link) might have noticed, I've changed the window dressing around here, and -- outside the rather drastic aesthetic change -- I haven't written much in the last two months.
+As Bitbanter's seasoned readers (which at last count included me, my friend Paul, and my mother whenever I send her a link) might have noticed, I've changed the window dressing around here, and---outside the rather drastic aesthetic change---I haven't written much in the last two months.
 
 To answer why I devolved Bitbanter from a decentralized satire experiment into my personal Josh-centric portal, [check the about page](/about/). The "TL;DR" version, as the kids say, is that I was the only one writing on Bitbanter anyway. As an aside, there's nothing quite like saying "because I can" to explain egocentrism. (If you are not American, you should try it sometime, it feels selfishly healthy. If you are American, stop using "because I can" "because you can"...because I say so, I suppose. Hmph...I need to improve my tautological game.)
 
@@ -13,7 +13,7 @@ But back to the point. The central reason for this post is to take a moment to e
 
 ## Everybody Wants a Shtick
 
-To those less (more?) well-read, "shtick" is Yiddish/early-20th-century-New-Yorker for a "comic theme." And while that meaning is certainly apt when considering my own talents (right guys? I'm funny right?), I'm not-so-sneakily attempting to project a more encompassing interpretation. The way I view it, a shtick is a playful reflection on one's broader identity. I like to write and perform funny things. It's my shtick, and I identify as a humorist -- partially because I gain intrinsic value from making people laugh, and partially because creating an identity for myself helps confer meaning to my actions. 
+To those less (more?) well-read, "shtick" is Yiddish/early-20th-century-New-Yorker for a "comic theme." And while that meaning is certainly apt when considering my own talents (right guys? I'm funny right?), I'm not-so-sneakily attempting to project a more encompassing interpretation. The way I view it, a shtick is a playful reflection on one's broader identity. I like to write and perform funny things. It's my shtick, and I identify as a humorist---partially because I gain intrinsic value from making people laugh, and partially because creating an identity for myself helps confer meaning to my actions. 
 
 Meaning is what we're all after, really. And while we can spend an eternity debating whether life has intrinsic meaning, for the purpose of this article let's just accept that I view crafting humor as central to my own personal quest for meaning. I'm looking forward to hordes of angry tweets from both the religious and the anarchical to dispute this claim, although I'm not looking forward to finding out they're all alt-accounts of Paul's to fake a broader readership. Still, he's really a good friend.
 
