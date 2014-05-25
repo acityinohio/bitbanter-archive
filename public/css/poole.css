@@ -46,6 +46,8 @@ html,
 body {
   margin: 0;
   padding: 0;
+	/* OPTIMIZE ALL THE READING! */
+	text-rendering: optimizeLegibility;
 }
 
 html {
