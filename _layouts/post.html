@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="post">
-  <h1 class="post-title">{{ page.title | markdownify }}</h1>
+  <h1 class="post-title">{{ page.title | markdownify | strip_newlines }}</h1>
   <span class="post-date">{{ page.date | date: '%B %-d, %Y' }}</span>
   {{ content }}
 </div>
@@ -15,7 +15,7 @@ layout: default
       <li>
         <h3>
           <a href="{{ post.url }}">
-            {{ post.title | markdownify }}
+            {{ post.title | markdownify | strip_newlines }}
             <small>{{ post.date | date_to_string }}</small>
           </a>
         </h3>
