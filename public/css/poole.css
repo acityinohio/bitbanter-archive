@@ -48,6 +48,8 @@ body {
   padding: 0;
 	/* OPTIMIZE ALL THE READING! */
 	text-rendering: optimizeLegibility;
+	/* KERN ALL THE FONTS! */
+	font-feature-settings: "kern" on;
 }
 
 html {
