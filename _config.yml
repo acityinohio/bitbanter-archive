@@ -5,6 +5,10 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 
+# Enable smart quotes/dashes
+redcarpet:
+  extensions: ['smart']
+
 # Setup
 title:            Bitbanter 
 tagline:          The musings of a renersatz man. 
