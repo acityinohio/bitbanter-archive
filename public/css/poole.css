@@ -410,6 +410,11 @@ tbody tr:nth-child(odd) th {
 	font-style:italic;
 }
 
+.tbtc p {
+	margin-top: 2rem;
+	margin-bottom: 0rem;
+}
+
 /*
  * Pagination
  *
