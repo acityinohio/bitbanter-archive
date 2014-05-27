@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Amazon Inflames Standoff with Publishers by Setting Fire to Its Own Warehouses
 thumb: 2014-05-26-amazon-burning.png
 ---
