@@ -3,6 +3,7 @@
 
 {% if page.title == "Home" %}
 	<meta property="og:type" content="website" />	
+	<meta property="og:image" content="{{ site.url }}/public/favicon.ico" />
 	<meta name="twitter:title" content="{{ site.title }}" />
 	<meta name="twitter:description" content="{{ site.tagline }}" />
 {% else %}
@@ -24,8 +25,8 @@
 {% capture page_url %}{{ site.url }}{{ page.url | replace:'/index.html','/' }}{% endcapture %}
 {% include meta.html property="og:url" content=page_url %}
 
-<meta property="article:author" content="https://www.facebook.com/josh.cincinnati" />
+<meta property="article:author" content="{{ site.author.fburl }}" />
 <meta name="twitter:creator" content="{{ site.author.twit }}">
-<link rel="author" href="{{ site.author.url }}" />
+<link rel="author" href="{{ site.author.gurl }}" />
 
 {% endcapture %}{{ header | strip_newlines }}

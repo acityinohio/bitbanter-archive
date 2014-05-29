@@ -13,12 +13,15 @@ redcarpet:
 title:            Bitbanter 
 tagline:          The musings of a renersatz man. 
 description:      The musings of a renersatz man. 
-url:              http://bitbanter.com
+url:              "http://bitbanter.com"
 
 author:
-  name:           Josh Cincinnati 
-  url:            https://twitter.com/acityinohio
-  twit:           acityinohio
+  name:           "Josh Cincinnati"
+  twit:           "ACityInOhio"
+  twiturl:        "https://twitter.com/acityinohio"
+  gurl:           "https://plus.google.com/115508762054502274726?rel=author"
+  fburl:          "https://www.facebook.com/josh.cincinnati"
+  btc:            "https://coinbase.com/cin"
 
 paginate:         1
 

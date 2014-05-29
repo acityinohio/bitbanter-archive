@@ -20,7 +20,7 @@ Bitbanter started as a decentralized fake news project powered by bitcoin, but I
 3. The old site was needlessly complex, but hey, at least I know [Go](http://golang.org) now.
 4. You know what's actually a fantastic decentralized fake news project? The web.
 
-So instead, with the help of [Poole](https://github.com/poole), [Jekyll](http://jekyllrb.com) and [GitHub Pages](https://pages.github.com), my work is now hosted on a minimalist, reader-friendly website. But don't worry, I still accept (and love!) bitcoin tips if you think the chuckles deserve it. Hit me up here: *[1DzXwr9rQYTt55SXoxVyvM6pmrv5gzkGdN](bitcoin:1DzXwr9rQYTt55SXoxVyvM6pmrv5gzkGdN?label=Bitbanter&message=Tip%20For%20Bitbanter)*. Otherwise, all my work continues to be licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License]("http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"); aka, feel free to use/remix anything here, but link back to the appropriate post if you do. 
+So instead, with the help of [Poole](https://github.com/poole), [Jekyll](http://jekyllrb.com) and [GitHub Pages](https://pages.github.com), my work is now hosted on a minimalist, reader-friendly website. But don't worry, I still love [bitcoin tips]({{ site.author.btc }}) if you think the chuckles deserve it. Otherwise, all my work continues to be licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License]("http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"); aka, feel free to use/remix anything here, but link back to the appropriate post if you do. 
 
 ## So what, exactly, is here?
 
@@ -28,4 +28,4 @@ Ah, right. As I mentioned earlier, Bitbanter used to be a place for my writing, 
 
 ### Somehow, I miraculously made it to the bottom of the page here, and I want more of your work.
 
-Wow, really? Okay, it's your cyber-rodeo. For my micro-musings, check out my tweets [@ACityInOhio](https://twitter.com/acityinohio/). If you really want a deep dive, try [Flailing Fast](http://flailfast.com), my first not-quite novel-length novel. I'm planning on writing a second book soon, so keep your eyes glued to the tiny screen in front of you for updates. Otherwise, you can also peruse my [YouTube Channel](https://www.youtube.com/channel/UCUvzKxe7XmTgcj5TyyZK_Ow), which is updated less frequently (but I hope that will change soon).
+Wow, really? Okay, it's your cyber-rodeo. For my micro-musings, check out my tweets [@{{ site.author.twit }}]({{ site.author.twiturl }}). If you really want a deep dive, try [Flailing Fast](http://flailfast.com), my first not-quite novel-length novel. I'm planning on writing a second book soon, so keep your eyes glued to the tiny screen in front of you for updates. Otherwise, you can also peruse my [YouTube Channel](https://www.youtube.com/channel/UCUvzKxe7XmTgcj5TyyZK_Ow), which is updated less frequently (but I hope that will change soon).
