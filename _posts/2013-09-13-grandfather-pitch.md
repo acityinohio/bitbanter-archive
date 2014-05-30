@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Plucky Mobile Entrepreneur Pitches His Great Grandfather on His Instagram Clone.
+title: A Plucky Mobile Entrepreneur Pitches His Great Grandfather on His Instagram Clone
 ---
 
 First off, thanks for agreeing to meet. I know how busy things are, and I can't tell you how much I appreciate you squeezing me in before the Matlock marathon on CBS. By the way, in case this runs over, I'd be happy to buy you a full season of Matlock on iTunes. 
