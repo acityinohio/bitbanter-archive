@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bankrupt Mt.Gox Reveals Location of Lost Private Keys: F*#@ing Crimea"
+title: "Bankrupt Mt.Gox Reveals Location of Lost Private Keys: F!#@ing Crimea"
 ---
 
 *"Gosh guys I just can't believe our bad luck here," claims CEO with shit-eating grin*
