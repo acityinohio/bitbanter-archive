@@ -324,7 +324,7 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -346,9 +346,7 @@ tbody tr:nth-child(odd) th {
   color: #c0c0c0;
   letter-spacing: 0;
 	font-style: italic;
-}
-.masthead-title p a {
-	color: #d0d0d0;
+	margin-bottom: 0;
 }
 
 /*
