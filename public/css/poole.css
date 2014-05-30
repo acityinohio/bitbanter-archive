@@ -347,6 +347,9 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 	font-style: italic;
 }
+.masthead-title p a {
+	color: #d0d0d0;
+}
 
 /*
  * Posts and pages
