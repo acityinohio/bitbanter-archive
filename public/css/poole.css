@@ -360,9 +360,9 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
-	-webkit-animation: fadein 2s;
-	-moz-animation: fadein 2s;
-	animation: fadein 2s;
+	-webkit-animation: fadein 1.5s;
+	-moz-animation: fadein 1.5s;
+	animation: fadein 1.5s;
 }
 
 /* My subtle fades bring all the boys to the yard */
