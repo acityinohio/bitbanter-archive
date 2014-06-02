@@ -14,5 +14,3 @@ Some are calling for an unprecedented reverse class action suit against technolo
 We have reached out to dozens of engineers across the Valley, and they invariably responded the same way: "Let me get back to you on that, stuck on a really big problem right now. Earliest I can get you a deliverable is next week. Sorry."
 
 Meanwhile, at the 16th St/Mission BART station in San Francisco, a member of the lowest quintile of America's socioeconomic classes played a hauntingly melancholic fugue on the smallest violin ever made in support of CEOs and engineers alike. He has received no tips, and likely never will.
-
-{% include tbtc.html %}

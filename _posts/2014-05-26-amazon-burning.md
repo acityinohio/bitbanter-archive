@@ -27,5 +27,3 @@ Publishers have taken the beating quietly, matching the new-found silence of mil
 Bezos made a rare public comment, dispelling any notion that Amazon would back down. "Until our demands are met, there is no choice but the Path of Light. I will set aflame the publishers themselves, and I will find their loved ones, and I will make them weep over their ashes. I will make paper itself a faint memory, and if need be, I  will scorch a path through the unexplored vastness of the rain forest which bears our name. The smoke will blot out the sky, and we will have rewritten the pages of history. Pages which will be found, and incinerated in turn. Spoiler Alert: I am Azor Ahai reborn."
 
 Bezos paused for a moment, then made his signature, spine-chillingly not-quite laugh. "...but anyway, what I really mean to say is: you should really check out our Kindle Fires. They're fantastic devices at a great price point."
-
-{% include tbtc.html %}

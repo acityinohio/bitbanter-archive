@@ -21,5 +21,3 @@ Internal documents show this was not a smooth process, until one French engineer
 Still other released documents show similar collaboration with other offline-media focused companies, including 3M, Crayola, Nordic Paper, Dunder-Mifflin, HP, and BlackBerry. Outside of using alternative forms of paper/ink and never speaking or thinking, all humans should consider their writings, creative output, thoughts, and dreams at risk.
 
 In the meantime, this author would like to thank the brave NSA operative who furnished these critical documents, despite scrawling them on stone tablets with monkey feces.
-
-{% include tbtc.html %}

@@ -17,5 +17,3 @@ Despite the disenfranchisement of huge swathes of the electorate, experts are la
 But there are still detractors. The EFF and Amnesty International have strongly condemned the move, as TinderUS's source code will remain closed, while audits will be restricted to the FEC and, inexplicably, the Independent High Electoral Commission of Iraq.
 
 Citizens should also take note: there will be some locality-based inconsistencies in the process, as can be expected in any federated electoral process. In any Republican-controlled districts and Florida, swipe directions will be arbitrarily reversed without notice.
-
-{% include tbtc.html %}

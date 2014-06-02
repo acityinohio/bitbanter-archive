@@ -16,5 +16,3 @@ To deconstruct this inexplicable cognitive dissonance, we enlisted the support o
 Unfortunately, much like the Wheel, the Professor made extraordinary, hyperbolic claims while providing something of negligible/negative value. But perhaps, that's the secret ingredient to Superpedestrian's marketing sauce after all?
 
 "No," corrected Professor Gupta. "Look, to be honest, all it takes is heavily optimized SEO alongside a brightly-colored Youtube video containing attractive people and a xylophone doing power chords."
-
-{% include tbtc.html %}

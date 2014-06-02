@@ -8,5 +8,3 @@ title: Live from My Parents' Basement Highlight Reel
 <div class="videowrapper">
 <iframe src="//www.youtube.com/embed/BippoiHZUUo" frameborder="0" allowfullscreen></iframe>
 </div>
-
-{% include tbtc.html %}

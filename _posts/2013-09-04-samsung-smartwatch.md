@@ -16,5 +16,3 @@ The representative proceeded to demonstrate the delivery mechanism for their for
 Apple was curt with its response. "We have some magical products coming up, and Apple has no doubt that the legal system will permit consumers to choose the products they want," said Apple CEO Tim Cook.
 
 After a short pause, he continued: "Failing that, we here at Apple would like to remind any potential competitors that we do, in fact, own the patent for an all-encompassing concept of Time. So, you know. Take some time before acting. This time...it's free. But only this time. Next time will cost you." Apple's CEO stole a brief glance at the painting behind him, a reproduction of Dali's 'The Persistence of Memory.' He seemed satisfied, then ended the press conference in a fit of maniacal laughter.
-
-{% include tbtc.html %}

@@ -31,5 +31,3 @@ I obviously regret what's happened, but---and I don't mean to sound like a self-
 ...although I admit, once I get some juicy meta-data on that expose-writing Valleywag Biddley-fuck, I'm gonna burn him worse than a 151 body shot on pledge night.
 
 *No, standing desk, don't write that! Jesus. You're impossible.*
-
-{% include tbtc.html %}

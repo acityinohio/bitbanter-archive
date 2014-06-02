@@ -15,5 +15,3 @@ CEO Mark Zuckerberg explained: "For years, we struggled with communicating the w
 In its official press release, Facebook went on to explain that the poorly monikered Zuckerberg's Law (that sharing will increase exponentially, like a Moore's Law for lolcats) has also applied to "resharing" (what Facebook is now calling idea-stealing). Facebook claimed that resharing will become the growth engine of the "shareconomy," and reshared ideas will outnumber original, novel thought for decades to come.
 
 Marketing experts are divided on this bold move, but all seem to agree that rebranding concept-theft as "resharing" remains Facebook's first, and only, original idea.
-
-{% include tbtc.html %}

@@ -4,34 +4,20 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+	{% for post in site.posts limit:5 %}
   <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
+    <h2>
+      <a href="{{ post.url }}" target="_blank">
         {{ post.title | markdownify | strip_newlines }}
       </a>
-    </h1>
+    </h2>
 
-    <span class="post-date">{{ post.date | date: '%B %-d, %Y' }}</span>
+    <span class="index-post-date">{{ post.date | date: '%B %-d, %Y' }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
   </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+	{% endfor %}
+	<div class="index-more">
+		&#8230;for older posts, try the <a href="/archive/">archive.</a>
+	</div>
 </div>

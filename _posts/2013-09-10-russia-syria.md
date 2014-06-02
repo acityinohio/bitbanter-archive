@@ -14,5 +14,3 @@ But these controls weren't in place with Syria, as it patently refused to partic
 "All in all, we think it's a pretty big victory for the Middle East. No matter what though,  I really need to talk Bashar into downloading Snapchat. He just doesn't get privacy," admitted Putin.
 
 In related news, China made a separate statement on the crisis, reiterating that it would never stop the flow of Syrian posts on Sina Weibo or Chinese-made chemical weapons into Syria.
-
-{% include tbtc.html %}

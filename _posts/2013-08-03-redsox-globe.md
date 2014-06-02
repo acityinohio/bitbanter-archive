@@ -14,5 +14,3 @@ Already, 99% of the staff has been fired, while the remaining reporter and IT em
 Despite these grand changes and Henry's bold plan, not all experts are behind him. "You're reading about the deal from another source. Would you even go to another article after this? That's like staying past the 4th inning at a Red Sox game," stated pretty much everyone.
 
 Still, even in the worst case, Henry thinks he has his bases covered. The $70 million deal reportedly included about $3.50 in cash, while the rest was in peanuts and cracker jacks. "Honestly, I don't even care if I ever get that money back."
-
-{% include tbtc.html %}

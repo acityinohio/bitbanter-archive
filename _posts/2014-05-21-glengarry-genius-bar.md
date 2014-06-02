@@ -68,5 +68,3 @@ thumb: 2014-05-21-glengarry-genius-bar.png
 *Blake takes a pair of gold-plated electric leads from his other pocket*
 
 *Blake:* These are the new leads. These are the Glengarry leads. And they're gold, actual gold, like Beats headphones plugs, and you don't get them. Why? Because to give them to you is just throwing them away. They're for fixers. I'd wish you good luck but you wouldn't know what to do with it if you got it. And to answer you question, pal, why am I here? I came here because Apple Corporate asked me to. They asked me for a favor. I said the real favor, follow my advice and fire your fucking ass because a bozo is a bozo.
-
-{% include tbtc.html %}

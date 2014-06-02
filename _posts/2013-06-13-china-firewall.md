@@ -26,5 +26,3 @@ Worried about integration? Don't be! Even though we provide all the instructions
 So why wait? You could be one tweet away from an African/Latin American Spring. Erase that tweet before it happens. Erect your own Great Firewall, secure your legacy and "Choose Open To Stay Closed!" (tm pending)
 
 This informative article made possible by Chinese Ghost City Consortium for Furthering Highly Skilled Ghost Labor.
-
-{% include tbtc.html %}

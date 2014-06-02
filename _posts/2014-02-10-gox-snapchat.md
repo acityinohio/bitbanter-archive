@@ -14,5 +14,3 @@ Unfortunately, due to "fundamental problems with TCP/IP, the protocol that enabl
 Assuming everything is in order, in 6 to 8 business weeks, Mt.Gox will Snapchat your bitcoins by encoding a private key into a QR code. They will be constantly shifting usernames (for "security reasons") and each image will have a one second timer. Due to "currency imbalances stemming from transaction malleability," there is a small chance that your bitcoins may "transform" into dogecoins, and again, according to Mt.Gox, it's all the protocol's fault.
 
 After this most recent dispatch by Mt Gox, Gavin Andresen reportedly facepalmed hard enough to feel the back of his cerebellum.
-
-{% include tbtc.html %}

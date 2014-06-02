@@ -20,5 +20,3 @@ So instead, like our users, let's wear our insecurity as a badge of honor. Let's
 And if users resist? Simple. We threaten to activate the DOOMSDAY DEVICE, which will automatically torrent a public list of plaintext emails and barely salted passwords.
 
 ...WHAT DO YOU MEAN IT'S ALREADY BEEN ACTIVATED?
-
-{% include tbtc.html %}

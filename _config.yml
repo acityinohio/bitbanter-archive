@@ -23,8 +23,6 @@ author:
   fburl:          "https://www.facebook.com/josh.cincinnati"
   btc:            "https://coinbase.com/cin"
 
-paginate:         1
-
 # Custom vars
 version:          1.0.0
 
@@ -32,4 +30,4 @@ github:
   repo:           https://github.com/ACityInOhio/ACityInOhio.github.io 
 
 # List of pages to include in header
-pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
+pages_list:       {'About':'/about','Archive':'/archive','Tip':'https://coinbase.com/cin','Feed':'/atom.xml'}

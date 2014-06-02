@@ -20,5 +20,3 @@ In a flurry of buzzwords, Ballmer bullet-pointed the forthcoming changes:
 * For some reason Ballmer repeated the word "Developers" and "Synergy" 14 times in his last bullet point.
 
 The changes come after pressure from shareholders, who have long grown tired of seeing consistent profit and margin growth. The response has been generally positive; most shareholders seem pleased with a small chance of growth coupled with a significantly greater risk of unrecoverable implosion.
-
-{% include tbtc.html %}

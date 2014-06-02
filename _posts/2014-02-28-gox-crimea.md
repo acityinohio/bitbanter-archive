@@ -14,5 +14,3 @@ Supposedly, Mt.Gox kept most of its customers' bitcoin in "cold storage," a euph
 "I offer my sincerest apologies. Had I known about this malfeasance, I would have never committed [to] the Crimea of the Century \[group\]."
 
 Mt.Gox's CEO has since recused himself from the court, saying he had urgent business in Eastern Europe.
-
-{% include tbtc.html %}

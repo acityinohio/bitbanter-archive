@@ -11,6 +11,7 @@
  *
  * Designed, built, and released under MIT license by @mdo. Learn more at
  * https://github.com/poole/poole.
+ * This version modified by @ACityInOhio.
  */
 
 
@@ -23,7 +24,6 @@
  * Container
  * Masthead
  * Posts and pages
- * Pagination
  * Reverse layout
  * Themes
  */
@@ -359,10 +359,14 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 1em;
 	-webkit-animation: fadein 1.5s;
 	-moz-animation: fadein 1.5s;
 	animation: fadein 1.5s;
+}
+
+.post {
+  border-bottom: 1px solid #eee;
 }
 
 /* My subtle fades bring all the boys to the yard */
@@ -384,28 +388,49 @@ tbody tr:nth-child(odd) th {
 
 /* Blog post or page title */
 .page-title,
-.post-title,
-.post-title a {
-  color: #303030;
-}
-.page-title,
 .post-title {
+  color: #303030;
   margin-top: 0;
 }
 
 /* Meta data line below post title */
 .post-date {
   display: block;
-  margin-top: -.5rem;
+  margin-top: -1rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+}
+
+/* Date line for archive list */
+.archive-post-date {
+	display: block;
+	font-size: 75%;
+	margin-bottom: 1rem;
+	color: #9a9a9a;
+}
+
+/* Date line for index */
+.index-post-date {
+	display: block;
+	font-size: 75%;
+	margin-top: -1rem;
+	margin-bottom: .5rem;
+	color: #9a9a9a;
+}
+
+/* Style for bottom archive link on index */
+.index-more {
+	display: block;
+	margin-top: 2rem;
+	color: #9a9a9a;
+	font-size: 80%;
 }
 
 /* Related posts */
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
+  /* border-top: 1px solid #eee;*/
 }
 .related-posts {
   padding-left: 0;
@@ -437,58 +462,9 @@ tbody tr:nth-child(odd) th {
 	margin-bottom: 1rem;
 }
 
-/*
- * Pagination
- *
- * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
- * there are no more previous or next posts to show.
- */
-
-.pagination {
-  overflow: hidden; /* clearfix */
-  margin-left: -1rem;
-  margin-right: -1rem;
-  color: #ccc;
-  text-align: center;
-}
-
-/* Pagination items can be `span`s or `a`s */
-.pagination-item {
-  display: block;
-  padding: 1rem;
-  border: 1px solid #eee;
-}
-.pagination-item:first-child {
-  margin-bottom: -1px;
-}
-
-/* Only provide a hover state for linked pagination items */
-a.pagination-item:hover {
-  background-color: #f5f5f5;
-}
-
 /* Some footer nicities */
 .footer {
+	margin-top: 2rem;
 	font-size: 50%;
 	font-style: italic;
-}
-
-@media (min-width: 30em) {
-  .pagination {
-    margin: 3rem 0;
-  }
-  .pagination-item {
-    float: left;
-    width: 50%;
-  }
-  .pagination-item:first-child {
-    margin-bottom: 0;
-    border-top-left-radius:    4px;
-    border-bottom-left-radius: 4px;
-  }
-  .pagination-item:last-child {
-    margin-left: -1px;
-    border-top-right-radius:    4px;
-    border-bottom-right-radius: 4px;
-  }
 }

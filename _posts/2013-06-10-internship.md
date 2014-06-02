@@ -23,5 +23,3 @@ But such data was impossible to collect. A visibly surprised Larry Page explaine
 Google concluded the press conference on a defeated note. They have no future movies planned. But Larry Page added one silver lining: "Failed experiments are still worthwhile. In the future, Google won't pour money into marginal businesses that provide zero value to end users while holding back creative expression and innovation. Unless it's apps. Or social."
 
 Separately, at the time of posting, the EFF announced they were actively pursuing legal action against Google for violating their "Do No Evil" compact through the resurrection of Vince Vaughn and Owen Wilson's acting careers.
-
-{% include tbtc.html %}

@@ -24,5 +24,3 @@ Anyway, in "Communal Democracy" mode players must unanimously vote between two a
 So, um, yeah, Twitch Plays Ukraine is going to be an epic experiment guys. The real-world geopolitical consequences of your decisions will make Mass Effect's quaint choice-dependent storyline look like Pong, or something. Granted, you'll be completely constrained in your collective power, since you'll be presented false choices by an authoritarian regime as a lame attempt to hide its own unilateral actions. And you'll be censored every step of the way.
 
 But look at it this way: you're still doing more than the UN! Game on, guys!
-
-{% include tbtc.html %}

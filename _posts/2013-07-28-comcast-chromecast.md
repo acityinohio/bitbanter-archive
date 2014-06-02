@@ -15,5 +15,3 @@ Early reviews are generally positive; customers and Comcast seem surprised by th
 The Chromecast is exceptionally easy to install. Users simply bend over and plug the device into an open HDMI port on their televisions (if the user is Comcast, they also remove their pants). Then, after a brief setup, video can be automagically streamed to their TVs while their Internet device becomes a simple, effective remote. Newer televisions will even detect when a stream is present and switch inputs away from the cablebox, increasing customer satisfaction while savagely asphyxiating Comcast of revenue and tearing the telecommunications giant's now-fragile taint.
 
 The Chromecast includes a micro-USB cable, the device, and in the Comcast-edition, an abrasive, low-thread-count towel for cleanup. Currently, the most watched video through the Chromecast is a livestream of the Chromecast utterly annihilating Comcast's dirty sarlacc pit. The second most watched video is a youtube compilation of cats fitting themselves into cardboard boxes.
-
-{% include tbtc.html %}

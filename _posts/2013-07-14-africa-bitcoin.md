@@ -12,5 +12,3 @@ Mr. Steveosky, a contract developer who specializes in FORTRAN, C, and LISP, has
 Indeed, Mr. Steveosky seemed buoyed by a strange sense of intellectual superiority derived from willful ignorance and theoretical hyper-rationalization. "Africa is the perfect place for widespread Bitcoin adoption thanks to corrupt state-run economies and barter environments," generalized Stan, neglecting the regional differences of a continent that holds both the successfully democratic Botswana and the warlord-run anarchy of Somalia (a barter-run economy whose dominant currency--livestock--still can't be traded for dependable electricity).
 
 Needless to say, the broader Bitcoin community has embraced Stan's view without hesitation or serious examination. "Africa will become an exemplar of Bitcoin-based Agorism!" concluded Mr. Steveosky, who paradoxically fears crowds, open markets, natural light, and voluntary exchanges with other people. "Next stop, North Korea!"
-
-{% include tbtc.html %}

@@ -12,5 +12,3 @@ Speculation has been rampant about the next dessert to take the Android crown, a
 Other effects of the deal are not yet fully understood. However, after discussing this topic for significant, non-marginal units of time, a general consensus of Internet denizens agree it would make even less fucking sense if Nestle was given design input into Android or vice-versa. A few bored EVE Online players also posted a spreadsheet-derived estimate of perceived benefits for both parties, claiming that Google stands to gain several hundred thousand dollars in Android promotional value. Nestle, on the other hand, could accrue several million dollars of KitKat-based  revenue, thanks mostly to the American education system's failure to properly teach the probability of winning contests.
 
 Meanwhile, in far less important news, Microsoft agreed to purchase Nokia's device business and the game "Snake" for $7 billion.
-
-{% include tbtc.html %}

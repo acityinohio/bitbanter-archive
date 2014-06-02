@@ -26,5 +26,3 @@ Yours,
 Tim
 
 P.S. Just FYI, after you're done reading, we'll be remote wiping your device to install some unrelated updates. Hope you saved that copy of Flappy Bird elsewhere!
-
-{% include tbtc.html %}

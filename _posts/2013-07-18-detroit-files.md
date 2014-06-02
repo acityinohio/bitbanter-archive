@@ -12,5 +12,3 @@ Detroit, a city that once inexplicably captured America's imagination and indust
 Experts agree that Detroit has never been more prominent than today. But they disagree on what happens post-Relevancy. "No one has ever attempted to make something relevant so forcefully and at such a scale," explained Michigan State Economics Professor Dan Davidson. "What happens afterward? Will we maintain our relevance, or squander this chance and descend into irrelevant chaos? No one knows, but I'll be damned if I'm the only one left in this shithole to find out."
 
 The last remaining city official on payroll was happy to report the event claimed only 8 murders, making it the least deadly public event in Detroit's storied history of violent public events. He then asked if we could spare some change, or perhaps a Greyhound ticket to anywhere else.
-
-{% include tbtc.html %}

@@ -28,5 +28,3 @@ But that hundred thousand dollars won't be enough. I need to hire an engineer, b
 Yes, popop, I want money, and it's not my birthday. I appreciate that you'd be willing to give me an early present this year but I was looking for a strategic investment, where both of us would stand to benefit...
 
 What do you mean, you can't remember why I'm here? Alright, you know what? Forget what I said. It's my birthday. Yes, I will take the traditional two hundred dollar gift. Thanks popop.
-
-{% include tbtc.html %}

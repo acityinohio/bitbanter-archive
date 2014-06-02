@@ -14,5 +14,3 @@ Despite cases like Unicorn's, most officials stress that this "Klout of fear" is
 A consortium of Lithium users was quick to publicly condemn the CDC from their headquarters, a makeshift island of dilapidated shopping carts somewhere in the Tenderloin. Lithium's representative, a disheveled man wearing the tattered remnants of five different burlap sacks, yelled to a nearby passerby: "I DON'T TRUST THE CDC. DO YOU? THEY DON'T EVEN HAVE 70-POINT K. LISTEN TO ME GOD DAMNIT! LISTEN TO ME!!!" Not long after, the representative was arrested for throwing his feces at that same passerby, although we cannot confirm if that was part of his public statement.
 
 Reportedly, the companies responsible for fueling both Lithium and Special K's growth have profited immensely from this streetwise combination, despite its questionable legality. They refused to comment, but did flash us a knowing, devious smile; a grin, it seemed to us, worth at least 80 solid points of Special K.
-
-{% include tbtc.html %}

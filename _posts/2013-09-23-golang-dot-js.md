@@ -34,5 +34,3 @@ Okay, at this point, if you're running a Chrome nightly, you'll finally see your
 And that's it! With Golang.js, my sparsely-dynamic five page website took, soup-to-nuts, only three weeks of development time. Spent on nights and weekends. Without sleeping on the nights. Or the weekends. And it's not connected to a database yet, but Firehose support is supposedly only a few point releases away.
 
 So, what do you think HN? How long until I redo it in Django? Feedback welcome, especially if it shatters my fragile self-worth!
-
-{% include tbtc.html %}

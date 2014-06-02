@@ -46,5 +46,3 @@ And part of that process will be redefining and once-again capturing meaning in 
 So, long story short: I regret that my good humor turned sour for a time. And that I have such a weakness for corny math puns. But I'm doing my damnedest to keep my Antimuse in check, and to find purpose in laughter again. If you're still reading, I sincerely hope we'll have the fortune of finding it together. 
 
 And I promise my next post will be significantly less *[womp womp womp womp](http://wompwompwomp.com/)*.
-
-{% include tbtc.html %}

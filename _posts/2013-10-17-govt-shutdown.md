@@ -14,5 +14,3 @@ Obama continued: "In the last two weeks, the American populace has dropped a col
 Senator Cruz was quick to respond, saying "It's going to take a lot more than a few four letter words to ‘Shut Down' the Cruzinator! I've got one switch, and it's always on, America."
 
 At press time, Senator Cruz has been banned from Twitter and the Senate floor.
-
-{% include tbtc.html %}

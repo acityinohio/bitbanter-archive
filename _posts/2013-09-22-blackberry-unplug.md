@@ -18,5 +18,3 @@ An anonymous, self-proclaimed "enlightened" ex-employee gave anecdotal tribute t
 The former employee paused for a moment, and contentment washed over his face. For the briefest moment, he seemed more Dalai Lama than Electrical Engineering PhD. "I can safely say it was the happiest time of my life." The look quickly vanished, and he added, "Unfortunately I apparently no longer have a job, and I haven't looked at my online brokerage in 5 years. Do you mind if I borrow your iPhone for a moment?"
 
 In aftermarket trading, BlackBerry is down 20%, but up on life.
-
-{% include tbtc.html %}
