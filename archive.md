@@ -11,6 +11,6 @@ title: Archive
 
 ##Long(ish) Reads
 
-[Flailing Fast](http://flailfast.com/)  
-[My Tweet Stream](http://twitter.com/acityinohio)  
+<a href="http://flailfast.com/" target="_blank">Flailing Fast</a>  
+<a href="http://twitter.com/ACityInOhio" target="_blank">My Tweet Stream</a>  
 Another one coming soon...
