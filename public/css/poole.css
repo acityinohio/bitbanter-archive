@@ -26,6 +26,8 @@
  * Posts and pages
  * Reverse layout
  * Themes
+ * Bottom Nav
+ * Custom TBTC Niceness
  */
 
 /* import some web fonts */
@@ -426,29 +428,17 @@ tbody tr:nth-child(odd) th {
 	font-size: 80%;
 }
 
-/* Related posts */
-.related {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+/* Bottom Nav */
+.bottom-nav {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+	padding-left: 0;
+  border-bottom: 1px solid #eee;
 }
-.related-posts {
-  padding-left: 0;
-  list-style: none;
-}
-.related-posts h3 {
-  margin-top: 0;
+
+.bottom-nav h3 {
+	margin: 0 0;
 	font-weight: normal;
-}
-.related-posts li small {
-  font-size: 75%;
-  color: #999;
-}
-.related-posts li a:hover {
-  color: #268bd2;
-  text-decoration: none;
-}
-.related-posts li a:hover small {
-  color: inherit;
 }
 
 /* Twit/BTC niceness */
