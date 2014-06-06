@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FCC Drops All Pretension, Rebrands as US Telecom Lobbyists Inc
+title: FCC Drops All Pretension, Rebrands as US Telecom Lobbyists Inc.
 thumb: 2014-06-06-fcc-drops-pretense.png
 ---
 
