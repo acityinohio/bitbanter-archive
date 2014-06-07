@@ -9,6 +9,10 @@ permalink:        pretty
 redcarpet:
   extensions: ['smart']
 
+# Add sitemap
+gems:
+  - jekyll-sitemap
+
 # Setup
 title:            Bitbanter 
 tagline:          The musings of a renersatz man
