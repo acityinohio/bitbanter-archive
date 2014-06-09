@@ -14,6 +14,6 @@ San Francisco, CA---Uber, the darling of Silicon Valley, raised $1.2 billion thi
 
 Uber did not immediately release a target list, citing "operational security needs." But intelligence experts familiar with large-scale, robot-based assassination believe San Francisco and New York-based cabs are top priorities. There have been hints that if the program is successful, Uber will extend their targets to include the taxicab lobbyists, union leaders, legislative supporters, and their families.
 
-While some are excited for Uber's "Final Solution to the Taxi Problem"---as they're marketing it---some are concerned about its long-term feasibility. "Don't get me wrong; I hate traditional taxis as much as the next guy and love Uber's product," said Harvard Business School Professor Tomas Tribly. "But I cannot imagine a scenario where corporate-sponsored assassination of competitors won't face kind of legal challenge."
+While some are excited for Uber's "Final Solution to the Taxi Problem"---as they're marketing it---some are concerned about its long-term feasibility. "Don't get me wrong; I hate traditional taxis as much as the next guy and love Uber's product," said Harvard Business School Professor Tomas Tribly. "But I cannot imagine a scenario where corporate-sponsored assassination of competitors won't face some kind of legal challenge."
 
 Tribly was quick to add, "It's not as if they're doing this in Afghanistan."
