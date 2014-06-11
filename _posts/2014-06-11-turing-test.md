@@ -4,7 +4,7 @@ title: Team Behind Algorithm That Passed Turing Test Cannot Pass Turing Test
 thumb: 2014-06-11-turing-test.png 
 ---
 
-*"I'm a real human being, and a real hero," quotes project leader, through Bayesian inference* 
+*Project leader uses Bayesian inference to deduce he's a real human being, and a real hero* 
 
 ![Robot after all](/assets/2014-06-11-turing-test.png)
 
