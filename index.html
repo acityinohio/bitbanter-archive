@@ -14,7 +14,7 @@ title: Home
 
     <span class="index-post-date">{{ post.date | date: '%B %-d, %Y' }}</span>
 
-    {{ post.excerpt }}
+		{% if post.excerpt %}{{ post.excerpt }}{% endif %}
   </div>
 	{% endfor %}
 	<div class="index-more">
