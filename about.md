@@ -1,11 +1,10 @@
 ---
 layout: page
 title: About
-thumb: profile.jpg
+thumb: profile.png
 ---
 
-![My ugly mug](/assets/profile.jpg)
-<small>*Me looking 4&sigma; more attractive than usual*</small>
+![My ugly mug](/assets/profile.png)
 
 Howdy! I'm Josh Cincinnati, a self-proclaimed (potentially delusional) funny man with interests diverse enough to constitute the cast of a Captain Planet reboot. I love design, writing, video editing, tech, bitcoin, green tea, Go (the computer language), Go (the game), Linux, Open Source (as a philosophy), standup comedy, sketch comedy, satire, elegant math, astrophysics, Douglas Adams, 90s cartoon references, and genuine academic curiosity. I am, however, a forever-novice in all of the above, and thus consider myself a *Renersatz Man.* I also think my portmanteaus are cleverer than they are.
 
