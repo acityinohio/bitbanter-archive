@@ -50,4 +50,4 @@ Alright, that's all I got...to be honest, I don't think the interview will tease
 
 ---
 
-What do you think, reader? No comments on bitbanter (MVP yo), but feel free to [discuss on HN](http://news.ycombinator.com/).
+What do you think, reader? No comments on bitbanter (MVP yo), but feel free to [discuss on HN](https://news.ycombinator.com/item?id=8117203).
