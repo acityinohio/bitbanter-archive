@@ -218,4 +218,4 @@ Which makes me wonder (usually a bad idea, as you've seen). There's going to be 
 
 ## Helpful Links
 
-Check out the [code on github](https://github.com/ACityInOhio/google-depth-to-pointcloud). And if you feel like discussing, check the HN link.
+Check out the [code on github](https://github.com/ACityInOhio/google-depth-to-pointcloud). And if you feel like discussing, check the [HN link](https://news.ycombinator.com/item?id=8239751).
