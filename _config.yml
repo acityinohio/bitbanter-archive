@@ -31,7 +31,7 @@ author:
 version:          1.0.0
 
 github:
-  repo:           https://github.com/ACityInOhio/ACityInOhio.github.io 
+  repo:           https://github.com/acityinohio/acityinohio.github.io 
 
 # List of pages to include in header
 pages_list:       {'About':'/about','Archive':'/archive','Tip':'https://coinbase.com/cin','Feed':'/atom.xml'}
