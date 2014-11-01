@@ -8,7 +8,7 @@ thumb: 2014-08-28-golang-depth-map1.png
 
 ![A not-quite-there-pointcloud](/assets/2014-08-28-golang-depth-map1.png)
 
-I had an idea. This is usually a bad idea; when I think I have a good idea, I dedicated myself to sorting it out until I discover it was, in fact, a bad idea. I know I could break this loop, but I've only seen Primer twice and still don't understand recursion.
+I had an idea. This is usually a bad idea; when I think I have a good idea, I dedicate myself to sorting it all out until I discover it was, in fact, a bad idea. I know I could break this loop, but I've only seen Primer twice and still don't understand recursion.
 
 Anyway, back to the idea. Have you tried the Lens Blur option in the latest version of Android's camera software? [It's pretty neat](http://googleresearch.blogspot.com/2014/04/lens-blur-in-new-google-camera-app.html). Even neater is the depth map it generates, which led to all sorts of fun [web apps](http://depthy.me/).
 
