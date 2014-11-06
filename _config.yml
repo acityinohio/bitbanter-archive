@@ -25,7 +25,7 @@ author:
   twiturl:        "https://twitter.com/acityinohio"
   gurl:           "https://plus.google.com/115508762054502274726?rel=author"
   fburl:          "https://www.facebook.com/josh.cincinnati"
-  btc:            "https://coinbase.com/cin"
+  btc:            "http://cin.tip.me/"
 
 # Custom vars
 version:          1.0.0
@@ -34,4 +34,4 @@ github:
   repo:           https://github.com/acityinohio/acityinohio.github.io 
 
 # List of pages to include in header
-pages_list:       {'About':'/about','Archive':'/archive','Tip':'https://coinbase.com/cin','Feed':'/atom.xml'}
+pages_list:       {'About':'/about','Archive':'/archive','Tip':'http://cin.tip.me/','Feed':'/atom.xml'}
