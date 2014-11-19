@@ -448,16 +448,6 @@ tbody tr:nth-child(odd) th {
 	margin-bottom: 1rem;
 }
 
-.tbtc div {
-	display: inline-block;
-	vertical-align: middle;
-}
-
-.tbtc a {
-	display: inline-block;
-	vertical-align: middle;
-}
-
 /* Some footer nicities */
 .footer {
 	margin-top: 2rem;
