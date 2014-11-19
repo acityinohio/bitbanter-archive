@@ -57,16 +57,15 @@ body {
 
 html {
   font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.35;
 }
 
 @media (min-width: 38em) {
-  html {
-    font-size: 20px;
-  }
+	html {
+		font-size: 20px;
+	}
 }
-
 body {
   color: #515151;
   background-color: #fff;
@@ -88,7 +87,6 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: bold;
   line-height: 1.25;
   color: #313131;
 }
@@ -441,10 +439,8 @@ tbody tr:nth-child(odd) th {
 	font-weight: normal;
 }
 
-/* Twit/FB/BTC niceness */
+/* Twit/BTC niceness */
 .tbtc {
-	font-size:75%;
-	font-style:italic;
 	margin-bottom: 1rem;
 }
 
