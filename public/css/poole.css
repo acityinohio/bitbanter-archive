@@ -441,15 +441,21 @@ tbody tr:nth-child(odd) th {
 	font-weight: normal;
 }
 
-/* Twit/BTC niceness */
+/* Twit/FB/BTC niceness */
 .tbtc {
 	font-size:75%;
 	font-style:italic;
+	margin-bottom: 1rem;
 }
 
-.tbtc p {
-	margin-top: 2rem;
-	margin-bottom: 1rem;
+.tbtc div {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.tbtc a {
+	display: inline-block;
+	vertical-align: middle;
 }
 
 /* Some footer nicities */
