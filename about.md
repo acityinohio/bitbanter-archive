@@ -19,7 +19,7 @@ Bitbanter started as a decentralized fake news project powered by bitcoin, but I
 1. The old site was needlessly complex, but hey, at least I know [Go](http://golang.org) now.
 1. You know what's actually a fantastic decentralized fake news project? The web.
 
-So instead, with the help of [Poole](https://github.com/poole), [Jekyll](http://jekyllrb.com) and [GitHub Pages](https://pages.github.com), my work is now hosted on a minimalist, reader-friendly website. But don't worry, I still love [bitcoin tips]({{ site.author.btc }}) if you think the chuckles deserve it. Otherwise, all my work continues to be licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License]("http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"); feel free to use/remix anything here, but cite me as the original author and link back to the appropriate post if you do.
+So instead, with the help of [Poole](https://github.com/poole), [Jekyll](http://jekyllrb.com) and [GitHub Pages](https://pages.github.com), my work is now hosted on a minimalist, reader-friendly website. But don't worry, I still love [bitcoin tips]({{ site.author.btc }}) if you think the chuckles deserve it. Otherwise, all my work continues to be licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US); feel free to use/remix anything here, but cite me as the original author via my name, [my Twitter handle]({{ site.author.twiturl }}), and link back to the appropriate post.
 
 ## So what, exactly, is here?
 
