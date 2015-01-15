@@ -159,4 +159,4 @@ That said, I'm still a big supporter of Bitcoin, and love seeing the breakneck i
 
 I'd love for Bitcoin to be successful, especially if some of these ideas might be experimented upon in [sidechains](http://blockstream.com/), and am excited to see what happens regardless. Bitcoin and its ilk are reminders that we're living in the future; billions of us now walk around with 80s-era supercomputers in our pockets. The future is what we program of it, and perhaps that may one day include a Star Trekonomy. 
 
-I'll continue to explore these ideas, and always welcome feedback/criticism. Tweet [@ me via ACityInOhio](http://twitter.com/acityinohio) or [discuss on HN](http://news.ycombinator.com/). Otherwise, I hope you enjoyed this lengthy diversion from my normal satire, and I'll get back to the funny stuff shortly.
+I'll continue to explore these ideas, and always welcome feedback/criticism. Tweet [@ me via ACityInOhio](http://twitter.com/acityinohio) or [discuss on HN](https://news.ycombinator.com/item?id=8894845). Otherwise, I hope you enjoyed this lengthy diversion from my normal satire, and I'll get back to the funny stuff shortly.
