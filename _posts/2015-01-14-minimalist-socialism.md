@@ -4,7 +4,7 @@ title: Minimalist Socialism through Cryptocurrency
 thumb: 2015-01-14-minimalist-socialism.png
 ---
 
-*The framework for a voluntary Star Trek economy*
+*A proposed framework for a voluntary Star Trek economy*
 
 ![Protip text for image](/assets/2015-01-14-minimalist-socialism.png)
 
