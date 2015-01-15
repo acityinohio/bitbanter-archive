@@ -53,6 +53,7 @@ body {
 	text-rendering: optimizeLegibility;
 	/* KERN ALL THE FONTS! */
 	font-feature-settings: "kern" on;
+	/* background */
 }
 
 html {
@@ -68,7 +69,7 @@ html {
 }
 body {
   color: #515151;
-  background-color: #fff;
+  background-color: #7eafd2;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -309,10 +310,13 @@ tbody tr:nth-child(odd) th {
 
 .container {
   max-width: 38rem;
+	height: 100%;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
+  background-color: #fff;
+	box-shadow: 0 0 4rem #268bd2;
 }
 
 
