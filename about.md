@@ -8,7 +8,7 @@ thumb: profile.png
 
 Howdy! I'm Josh Cincinnati, a self-proclaimed (potentially delusional) funny man with interests diverse enough to constitute the cast of a Captain Planet reboot. I love design, writing, video editing, tech, bitcoin, green tea, Go (the computer language), Go (the game), Linux, Open Source (as a philosophy), standup comedy, sketch comedy, satire, elegant math, astrophysics, Douglas Adams, 90s cartoon references, and genuine academic curiosity. I am, however, a forever-novice in all of the above, and thus consider myself a *Renersatz Man.* I also think my portmanteaus are cleverer than they are.
 
-I'm currently on a hiatus from full-time employment thanks to a rather annoying medical issue, but previously I co-founded an Android-focused app startup and worked at the Washington Post, doing product management and business development. I hold an MBA from Stanford University and BAs in Political &amp; Social Thought and Mathematics from the University of Virginia.
+I'm currently working on a few bitcoin company ideas, but previously I co-founded an Android-focused app startup and worked at the Washington Post, doing product management and business development. I hold an MBA from Stanford University and BAs in Political &amp; Social Thought and Mathematics from the University of Virginia.
 
 ## What's Bitbanter?
 
@@ -23,7 +23,7 @@ So instead, with the help of [Poole](https://github.com/poole), [Jekyll](http://
 
 ## So what, exactly, is here?
 
-Ah, right. As I mentioned earlier, Bitbanter used to be a place for my writing, and it still is too. ([RIP Mitch](http://en.wikiquote.org/wiki/Mitch_Hedberg)) Generally I tend to write Onion-esque fake news articles, with a tendency to focus on tech/startups. But I'll break the mold occasionally, with YouTube videos, different writing styles, image-focused posts...really whatever strikes my fancy. Regardless of what I post, I hope it will engender some laughter. That's always been my mission, and always will be.
+Ah, right. As I mentioned earlier, Bitbanter used to be a place for my writing, and it still is too. ([RIP Mitch](http://en.wikiquote.org/wiki/Mitch_Hedberg)) Generally I tend to write Onion-esque fake news articles, with a tendency to focus on tech/startups. But I'll break the mold occasionally, with YouTube videos, different writing styles, image-focused posts...really whatever strikes my fancy. Regardless of what I post, I hope it will engender either laughter or curiosity. That's always been my mission, and always will be.
 
 ### Somehow, I miraculously made it to the bottom of the page here, and I want more of your work.
 
