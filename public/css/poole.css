@@ -448,6 +448,10 @@ tbody tr:nth-child(odd) th {
 	margin-bottom: 1rem;
 }
 
+.changetip_tipme_button {
+	margin-bottom: .5rem;
+}
+
 /* Some footer nicities */
 .footer {
 	margin-top: 2rem;

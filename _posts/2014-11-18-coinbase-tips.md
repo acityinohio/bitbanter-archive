@@ -19,3 +19,9 @@ And wonderfully for content producers, there are always alternatives out there i
 This is a very exciting time for anyone playing in the delightful intersection of cryptocurrency and content production. My hope (and Coinbase's, I'm sure) is that this will encourage more content makers to consider removing advertisements altogether. My more outlandish---and significantly more selfish---hope is that I may someday economically sustain my satire hobby without compromising my stances against spammy ads and draconian copyrights.
 
 To abuse an oft-misappropriated [Stewart Brand quote](http://en.wikipedia.org/wiki/Information_wants_to_be_free) even further: Information wants to be free, but it wouldn't mind an occasional tip to keep it that way.
+
+---
+
+*February 10th, 2015 Update*
+
+In a post today, [Coinbase announced their decision](http://blog.coinbase.com/post/110651254587/shutting-down-the-coinbase-tip-button) to shut down the Tip Button...but before calling it a defeat, read their rationale. [ChangeTip](https://www.changetip.com/) has better usage, and instead of poisoning a nascent API ecosystem by competing with developers, they took the high road and decided to help them out. I've transitioned over to ChangeTip and I'm still excited about the prospect of microtips in media...so play on, bitcoin, play on!
