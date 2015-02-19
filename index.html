@@ -4,20 +4,17 @@ title: Home
 ---
 
 <div class="posts">
-	{% for post in site.posts limit:5 %}
+	{% for post in site.posts limit:10 %}
   <div class="post">
-    <h2>
-      <a href="{{ post.url }}" target="_blank">
-        {{ post.title | markdownify | strip_newlines }}
-      </a>
-    </h2>
+		{% if post.thumb %} <img src="/assets/{{ post.thumb }}" /> {% endif %}
+    <h3>
+      <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+    </h3>
 
     <span class="index-post-date">{{ post.date | date: '%B %-d, %Y' }}</span>
 
 		{% if post.excerpt %}{{ post.excerpt }}{% endif %}
   </div>
 	{% endfor %}
-	<div class="index-more">
-		&#8230;for older posts, try the <a href="/archive/">archive.</a>
-	</div>
+	<div class="index-more">&#8230;for more, try the <a href="/archive/">archive.</a></div>
 </div>

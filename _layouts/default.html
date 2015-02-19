@@ -12,7 +12,7 @@
         <h3 class="masthead-title">
           <a href="/" title="Home">{{ site.title }}</a>
 					{% for page in site.pages_list %}
-					&nbsp;&nbsp;<small><a href="{{ page[1]  }}"{% if page[0] == "Tip" or page[0] == "Feed" %}target="_blank"{% endif %}>{{ page[0] }}</a></small>
+					&nbsp;&nbsp;<small><a href="{{ page[1]  }}"{% if page[0] == "Feed" %}target="_blank"{% endif %}>{{ page[0] }}</a></small>
 					{% endfor %}
 					<p>{{ site.tagline }}</p>
         </h3>

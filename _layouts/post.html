@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="post">
-  <h1 class="post-title">{{ page.title | markdownify | strip_newlines }}</h1>
+  <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date: '%B %-d, %Y' }}</span>
   {{ content }}
 	{% include tbtc.html %}

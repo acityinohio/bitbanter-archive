@@ -2,7 +2,6 @@
 layout: page
 title: Archive
 ---
-##Posts
 
 {% for post in site.posts %}
 <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>  
