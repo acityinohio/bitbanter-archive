@@ -14,7 +14,7 @@
 					{% for page in site.pages_list %}
 					&nbsp;&nbsp;<small><a href="{{ page[1]  }}"{% if page[0] == "Feed" %}target="_blank"{% endif %}>{{ page[0] }}</a></small>
 					{% endfor %}
-					<p>by <a href="{{site.author.twiturl}}">{{ site.author.name }}</a></p>
+					<p>by <a href="{{site.author.twiturl}}" target="_blank">{{ site.author.name }}</a></p>
 					<p>{{ site.tagline }}</p>
         </h3>
       </div>
