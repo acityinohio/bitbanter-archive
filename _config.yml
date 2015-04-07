@@ -35,3 +35,6 @@ github:
 
 # List of pages to include in header
 pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
+
+# Add directory for keybase
+include: [".well-known"]
