@@ -8,7 +8,7 @@ thumb: profile.png
 
 Howdy! I'm Josh Cincinnati, a self-proclaimed (potentially delusional) funny man with interests diverse enough to constitute the cast of a Captain Planet reboot. I love design, writing, video editing, tech, bitcoin, green tea, Go (the computer language), Go (the game), Linux, Open Source (as a philosophy), standup comedy, sketch comedy, satire, elegant math, astrophysics, Douglas Adams, 90s cartoon references, and genuine academic curiosity. I am, however, a forever-novice in all of the above, and thus consider myself a *Renersatz Man.* I also think my portmanteaus are cleverer than they are.
 
-I'm currently working on a few bitcoin company ideas, but previously I co-founded an Android-focused app startup and worked at the Washington Post, doing product management and business development. I hold an MBA from Stanford University and BAs in Political &amp; Social Thought and Mathematics from the University of Virginia.
+I'm currently [BlockCypher's](https://blockcypher.com/) Developer Advocate. Previously, I co-founded an Android-focused app startup and worked at the Washington Post, doing product management and business development. I hold an MBA from Stanford University and BAs in Political &amp; Social Thought and Mathematics from the University of Virginia.
 
 ## What's Bitbanter?
 
