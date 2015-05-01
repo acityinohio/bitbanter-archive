@@ -30,7 +30,7 @@ func probSorted(size int, trials float64) (prob float64) {
 	//Make channel to relay whether deck is sorted
 	sorted := make(chan bool)
 	//Number of times deck shows up true
-	truth := float64(0)
+	truth := 0
 ```
 
 First, I create a globally-scoped "sync.WaitGroup," which is an incredibly useful type for avoiding deadlock with a hard-to-count number of concurrent functions (I'll explain more about how to use a WaitGroup in a minute). My function takes the "size" of the hand, the number of "trials" you want to perform, and returns the "prob"-ability of the hand being sorted. I make a channel of bool values called "sorted," which will be sent a value when a shuffled hand appears sorted from functions run concurrently later on. And I'm initializing "truth" as the "number-of-times-event-happens" numerator in the expression above.
@@ -58,7 +58,7 @@ In the same function, I set up a loop to spin off my trials of shuffled hands (t
 		truth++
 	}
 	//Probability is number of true cases over trials
-	prob = truth / trials
+	prob = float64(truth) / trials
 	return
 }
 ```
