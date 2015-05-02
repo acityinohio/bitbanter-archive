@@ -26,7 +26,7 @@ But not too many for a simulation with my trusty laptop! I'll have a full Gist a
 ```go
 var wg sync.WaitGroup
 
-func probSorted(size int, trials float64) (prob float64) {
+func probSorted(size, trials int) {
 	//Make channel to relay whether deck is sorted
 	sorted := make(chan bool)
 	//Number of times deck shows up true
@@ -36,7 +36,7 @@ func probSorted(size int, trials float64) (prob float64) {
 First, I create a globally-scoped "sync.WaitGroup," which is an incredibly useful type for avoiding deadlock with a hard-to-count number of concurrent functions (I'll explain more about how to use a WaitGroup in a minute). My function takes the "size" of the hand, the number of "trials" you want to perform, and returns the "prob"-ability of the hand being sorted. I make a channel of bool values called "sorted," which will be sent a value when a shuffled hand appears sorted from functions run concurrently later on. And I'm initializing "truth" as the "number-of-times-event-happens" numerator in the expression above.
 
 ```go
-	for i := 0; i < int(trials); i++ {
+	for i := 0; i < trials; i++ {
 		//Increments waitgroup
 		wg.Add(1)
 		//shuffle a new virtual deck, decrements waitgroup when done
@@ -58,7 +58,7 @@ In the same function, I set up a loop to spin off my trials of shuffled hands (t
 		truth++
 	}
 	//Probability is number of true cases over trials
-	prob = float64(truth) / trials
+	fmt.Printf("%d/%d ≈ %f%%\n", truth, trials, float64(truth)/float64(trials))
 	return
 }
 ```
@@ -108,8 +108,7 @@ Notice the super-slick use of "defer wg.Done()". wg.Done() decrements the WaitGr
 The full program [can be seen in this Gist](https://gist.github.com/acityinohio/792a1f1b45b7a0fdc841), and you'll notice since there aren't any crazy memory sharing issues, it can be easily parallelized by adding this line to your main function:
 
 ```go
-//replace "whatever_your_CPU_max_proc_might_be"
-runtime.GOMAXPROCS(whatever_your_CPU_max_proc_might_be)
+runtime.GOMAXPROCS(runtime.MaxCPU())
 ```
 
 So, after all that work, what's the probability that a 10 card hand is shuffled in order? Well, after about two minutes of computation on a Core i7 and with 200,000,000 trials, my computer says: 2.435 * 10 ^ -6. Or a little more than twice for every million hands shuffled.
