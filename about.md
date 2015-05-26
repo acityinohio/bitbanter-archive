@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-thumb: profile.png
 ---
 
-![My ugly mug](/assets/profile.png)
+<div data-passname="cin"></div>
+<script type="text/javascript"> (function(doc){ var js, id = 'onenamejs', ref = doc.getElementsByTagName('script')[0]; if (doc.getElementById(id)) {return;} js = doc.createElement('script'); js.id = id; js.src = 'https://s3.amazonaws.com/onename/onename-cards.js'; doc.head.appendChild(js); var link, cssId = 'onenamecss'; if (doc.getElementById(cssId)) {return;} link = document.createElement('link'); link.id = cssId; link.rel = 'stylesheet'; link.type = 'text/css'; link.href = 'https://s3.amazonaws.com/onename/onename-cards.css'; doc.head.appendChild(link); }(document)); </script>
 
 Howdy! I'm Josh Cincinnati, a self-proclaimed (potentially delusional) funny man with interests diverse enough to constitute the cast of a Captain Planet reboot. I love design, writing, video editing, tech, bitcoin, green tea, Go (the computer language), Go (the game), Linux, Open Source (as a philosophy), standup comedy, sketch comedy, satire, elegant math, astrophysics, Douglas Adams, 90s cartoon references, and genuine academic curiosity. I am, however, a forever-novice in all of the above, and thus consider myself a *Renersatz Man.* I also think my portmanteaus are cleverer than they are.
 
-I'm currently [BlockCypher's](https://blockcypher.com/) Developer Advocate. Previously, I co-founded an Android-focused app startup and worked at the Washington Post, doing product management and business development. I hold an MBA from Stanford University and BAs in Political &amp; Social Thought and Mathematics from the University of Virginia.
+I'm currently [BlockCypher's](https://blockcypher.com/) Developer Advocate and live in San Francisco. Previously, I co-founded an Android-focused app startup and worked at the Washington Post, doing product management and business development. I hold an MBA from Stanford University and degrees in Political &amp; Social Thought and Mathematics from the University of Virginia.
 
 ## What's Bitbanter?
 

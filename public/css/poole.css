@@ -27,7 +27,6 @@
  * Reverse layout
  * Themes
  * Bottom Nav
- * Custom TBTC Niceness
  */
 
 /* import some web fonts */
@@ -455,11 +454,6 @@ tbody tr:nth-child(odd) th {
 .bottom-nav h3 {
 	margin: 0 0;
 	font-weight: normal;
-}
-
-/* ChangeTip Niceness */
-.tbtc {
-	margin-bottom: 1rem;
 }
 
 /* Some footer nicities */
