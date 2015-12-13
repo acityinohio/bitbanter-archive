@@ -6,7 +6,7 @@ thumb: 2014-06-06-fcc-drops-pretense.png
 
 *Former FCC Chairman Wheeler excited about new opportunities, old paycheck*
 
-![FCCizon](/assets/2014-06-06-fcc-drops-pretense.png)
+![FCCizon]({{ site.url }}/assets/2014-06-06-fcc-drops-pretense.png)
 
 Washington, D.C.---In the latest effort by the Obama administration for "more transparency in government," the FCC has finally shed any semblance of working for the public good. As of today, the FCC has relinquished its charter to regulate the telecommunications industry and has embraced its true purpose as a mouthpiece for American telecommunication trusts.
 

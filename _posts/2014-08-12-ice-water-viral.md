@@ -6,7 +6,7 @@ thumb: 2014-08-12-ice-water-viral.png
 
 *Grassroots campaign spreads awareness in most direct way imaginable while becoming global health crisis*
 
-![Don't go chasing cold waterfalls](/assets/2014-08-12-ice-water-viral.png)
+![Don't go chasing cold waterfalls]({{ site.url }}/assets/2014-08-12-ice-water-viral.png)
 
 Atlanta, GA---The Center for Disease Control released a report today warning about the pathogenic spread of self-ice-water-drowning. "While this phenomenon has increased public knowledge about the dangers of hypothermia, it has done so by subjecting much of the public to *actual* hypothermia. The number of hypothermia cases has skyrocketed in the last week and we fear an all-out hypothermia pandemic if nothing is done," said CDC Director Dr. Tom Frieden.
 

@@ -6,7 +6,7 @@ thumb: 2014-06-09-uber-predator.png
 
 *Seventy heavily armed drones will target slow-to-innovate, slow-moving yellow cabs*
 
-![Predatör](/assets/2014-06-09-uber-predator.png)
+![Predatör]({{ site.url }}/assets/2014-06-09-uber-predator.png)
 
 San Francisco, CA---Uber, the darling of Silicon Valley, raised $1.2 billion this past week from In-Q-Tel and an unnamed Saudi prince, valuing the company at a whopping $17 billion. While the funding was widely expected, the purpose of this latest funding round raised more than a few eyebrows.
 

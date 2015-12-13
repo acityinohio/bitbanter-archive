@@ -6,7 +6,7 @@ thumb: 2013-06-10-internship.svg
 
 *It's almost as if corporate propaganda movies are relics of a shittier era*
 
-![Google Buzzed](/assets/2013-06-10-internship.svg)
+![Google Buzzed]({{ site.url }}/assets/2013-06-10-internship.svg)
 
 Mountain View, CA---In lieu of posting an interactive online report, Google held a press conference to discuss the results of its latest advertising experiment. "Simply put, this A/B test was more of a D/F test," explained Google CEO Larry Page.
 

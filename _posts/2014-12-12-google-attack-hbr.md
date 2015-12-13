@@ -6,7 +6,7 @@ thumb: 2014-12-12-google-attack-hbr.png
 
 *How common sense and survivorship bias generate lots of clicks*
 
-![An inexplicable image of guys moving a car](/assets/2014-12-12-google-attack-hbr.png)
+![An inexplicable image of guys moving a car]({{ site.url }}/assets/2014-12-12-google-attack-hbr.png)
 
 *An inexplicable image of two dudes moving a car, something no Google employee has ever done in the company's 15 year history*
 

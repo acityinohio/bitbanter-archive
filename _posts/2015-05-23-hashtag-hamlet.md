@@ -6,7 +6,7 @@ thumb: 2015-05-23-hashtag-hamlet.jpg
 
 *Imagine the skull is an iPhone*
 
-![iSkull](/assets/2015-05-23-hashtag-hamlet.jpg)
+![iSkull]({{ site.url }}/assets/2015-05-23-hashtag-hamlet.jpg)
 
 *This section of Act 1, Scene V of "Hashtag Hamlet" sponsored by [this Tweet](https://twitter.com/acityinohio/status/601250943078764544)*
 

@@ -6,7 +6,7 @@ thumb: 2013-06-20-instavine.svg
 
 *Company cleverly rebrands "stealing ideas" as "resharing"*
 
-![InstaReVine](/assets/2013-06-20-instavine.svg)
+![InstaReVine]({{ site.url }}/assets/2013-06-20-instavine.svg)
 
 Menlo Park, CA---Facebook unveiled a "completely innovative" and "beautiful" way to reappropriate ideas today, as the company recycled the fundamental concepts behind Vine and mashed them into Instagram.
 

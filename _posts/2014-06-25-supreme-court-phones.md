@@ -6,7 +6,7 @@ thumb: 2014-06-25-supreme-court-phones.png
 
 *Writing for the Court, Chief Justice John Roberts*
 
-![Justice As A Service](/assets/2014-06-25-supreme-court-phones.png)
+![Justice As A Service]({{ site.url }}/assets/2014-06-25-supreme-court-phones.png)
 
 Washington, D.C.---After deliberation, we at the Court quickly---and unanimously---decided that warrants are absolutely required for phone searches, upholding Constitutional protections while tacitly recognizing that all the worthwhile information is on easily accessible, NSA-backdoored cloud-based services. We expect that Americans will applaud this decision, and rightfully so. 
 

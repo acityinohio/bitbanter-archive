@@ -6,7 +6,7 @@ thumb: 2014-05-30-snapchat-email.png
 
 *A note from Evan Spiegel's "standing desk," which is what he calls his female assistant*
 
-![Snapchat Broscot](/assets/2014-05-30-snapchat-email.png)
+![Snapchat Broscot]({{ site.url }}/assets/2014-05-30-snapchat-email.png)
 
 Greetings faithful Snapchat fans. Yesterday, I was rudely interrupted from my mid-day Chakra alignment by startling news. I was shocked to read absolutely [horrible things written about me](http://valleywag.gawker.com/fuck-bitches-get-leid-the-sleazy-frat-emails-of-snap-1582604137). But like all great leaders---except my spiritual mentor, Steve Jobs, who never had to answer to anybody, and just to clarify I hugely respect that---it's time to own up to my mistakes. What they are saying is absolutely true.
 

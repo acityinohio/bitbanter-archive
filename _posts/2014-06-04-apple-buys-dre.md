@@ -6,7 +6,7 @@ thumb: 2014-06-04-apple-buys-dre.png
 
 *Dre's WWDC appearance is the Next Episode of tech largess*
 
-![Dre, Still, With the Money On the Mind](/assets/2014-06-04-apple-buys-dre.png)
+![Dre, Still, With the Money On the Mind]({{ site.url }}/assets/2014-06-04-apple-buys-dre.png)
 
 San Francisco, CA---Earlier this week, Apple took the tech bubble to new, unfathomable heights, paying $3bn to acquire 57 seconds of Dr. Dre's time during the keynote presentation at Apple's Worldwide Developer Conference. Dre, who didn't even appear in person, or perform any music, was the receiver in a call to demonstrate an inconsequential desktop-based telephony feature in the next version of OS X. The sum, equivalent to what Apple earned in four weeks last quarter, has been half disbursed. Another half remains in escrow until Dre meets his obligation for a 23 second appearance at an employee orientation event next week. Apple's CEO Tim Cook has assured everyone that he has "not forgotten about Dre...'s other money."
 

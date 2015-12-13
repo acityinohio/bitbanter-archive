@@ -9,7 +9,7 @@ thumb: 2014-05-21-glengarry-genius-bar.png
 *  *Ed Harris as Moss.*
 *  *Holographic Jack Lemmon as Levene.*
 
-![The Best Photoshop I Could Do of Alec Baldwin as Jobs](/assets/2014-05-21-glengarry-genius-bar.png)
+![The Best Photoshop I Could Do of Alec Baldwin as Jobs]({{ site.url }}/assets/2014-05-21-glengarry-genius-bar.png)
 
 *Our scene opens at an Apple Store. It's late and raining, the constant patter of water droplets assaulting 5 sides of the store's cube-like, glassy exterior. Moss and Levene are looking perturbed, mumbling to themselves behind the Genius Bar. There's an incongruous poster of Alan Arkin, silently staring at them from behind.*
 

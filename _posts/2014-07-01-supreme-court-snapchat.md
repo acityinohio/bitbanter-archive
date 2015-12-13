@@ -6,7 +6,7 @@ thumb: 2014-07-01-supreme-court-snapchat.png
 
 *All decisions voided after 24 hours* 
 
-![Supreme Snaps](/assets/2014-07-01-supreme-court-snapchat.png)
+![Supreme Snaps]({{ site.url }}/assets/2014-07-01-supreme-court-snapchat.png)
 
 Washington, D.C.---In a rare display of bold bipartisan action, Congress passed a sweeping amendment to the Constitution that will fundamentally alter legal doctrine in America. "Ultimately, neither party has been particularly pleased with recent Supreme Court decisions. Combined with the snail-like pace of our legal process, we had to act, or risk America falling behind," said Speaker John Boehner. The solution, Boehner noted, was to remove barriers preventing quick legal decisions while ensuring the ephemerality of legal precedent. "Thus, all bad decisions are voided in 24 hours," added a smiling Boehner, tacitly assuming that every decision made by our legal system is, in fact, a bad one.
 

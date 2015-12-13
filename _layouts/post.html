@@ -11,13 +11,13 @@ layout: default
 <div class="bottom-nav">
 	{% if page.next %}
 	<h3>Newer</h3>
-	<a href="{{ page.next.url }}">
+	<a href="{{site.url}}{{ page.next.url }}">
 		{{ page.next.title | markdownify | strip_newlines }}
 	</a>
 	{% endif %}
 	{% if page.previous %}
 	<h3>Older</h3>
-	<a href="{{ page.previous.url }}">
+	<a href="{{site.url}}{{ page.previous.url }}">
 		{{ page.previous.title | markdownify | strip_newlines }}
 	</a>
 	{% endif %}

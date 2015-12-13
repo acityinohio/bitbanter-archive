@@ -6,7 +6,7 @@ thumb: 2015-08-11-oracle-fanfic.jpg
 
 *A Fanfic*
 
-![Oracular Spectacular](/assets/2015-08-11-oracle-fanfic.jpg)
+![Oracular Spectacular]({{ site.url }}/assets/2015-08-11-oracle-fanfic.jpg)
 
 Lines upon sand, curves upon grain, little pebbles percolating glassy seascapes. An hourglass, witness to entropy's dance, slave of potential energy.
 

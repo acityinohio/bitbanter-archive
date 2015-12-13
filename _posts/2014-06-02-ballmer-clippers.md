@@ -6,7 +6,7 @@ thumb: 2014-06-02-ballmer-clippers.png
 
 *"It was either this or running for public office," says Ballmer*
 
-![Ballmer Ballin](/assets/2014-06-02-ballmer-clippers.png)
+![Ballmer Ballin]({{ site.url }}/assets/2014-06-02-ballmer-clippers.png)
 
 Seattle, WA---Steve Ballmer announced today that he purchased the embattled Los Angeles Clippers for $2 billion, mainly because he "missed the toxic culture that surrounded [him] during [his] tenure as CEO of Microsoft." In a press conference, Ballmer admitted to pining for a role in a "stagnating organization," rife with "petty turf battles" and "a spectrum of HR violations." Ballmer claimed the Clippers represents an investment in equal parts mediocre management and complacent success rivaled only by "Microsoft of the late aughts," and he had to jump on the opportunity.
 

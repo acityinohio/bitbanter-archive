@@ -6,7 +6,7 @@ thumb: 2014-06-13-world-cup-iraq.png
 
 *US finally admits it was never very good at this game*
 
-![Pitch perfect](/assets/2014-06-13-world-cup-iraq.png)
+![Pitch perfect]({{ site.url }}/assets/2014-06-13-world-cup-iraq.png)
 
 Iraqi Consulate, Rio De Janeiro, Brazil---The World Cup excitement has finally reached diplomatic circles here in Rio, and the normally sleepy offices of this local Iraqi consulate are abuzz with activity. That unmistakable pre-game sense of anxious, uncertain fear pervades the office; the tension is so palpable that a security lock down has been in effect for the last 48 hours. Despite the lock down, nearly half of the consulate's Iraqi workforce has seemingly abandoned their posts---and reportedly, their uniforms. Leaving work early to see the game live, no doubt. Those remaining in the consulate are either lifelessly glued to their televisions or chaotically running around the grounds, with no semblance of discipline or organization. Which is just so "classic football fan." 
 

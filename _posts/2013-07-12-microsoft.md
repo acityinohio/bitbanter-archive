@@ -6,7 +6,7 @@ thumb: 2013-07-12-microsoft.svg
 
 *Balmer: "Our Company Must Look Like Our Software: Haphazardly Designed and Infinitely Frustrating"*
 
-![Windows Ugh](/assets/2013-07-12-microsoft.svg)
+![Windows Ugh]({{ site.url }}/assets/2013-07-12-microsoft.svg)
 
 Redmond, WA---Microsoft announced sweeping changes to its organizational structure today, hoping to transform its well-oiled, logically-siloed money-making enterprise into a smorgasbord of interdependent roles void of accountability and reason.
 

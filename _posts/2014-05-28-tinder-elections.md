@@ -6,7 +6,7 @@ thumb: 2014-05-28-tinder-elections.png
 
 *Democracy has finally met its Tinderella*
 
-![Internet Elections FTW](/assets/2014-05-28-tinder-elections.png)
+![Internet Elections FTW]({{ site.url }}/assets/2014-05-28-tinder-elections.png)
 
 Washington, D.C.---The Federal Election Commission, alongside representatives from state election authorities, announced an unprecedented partnership with Tinder to administer America's 2014 mid-term elections. The Commission hopes it will simplify the voting process for millions of Americans who are already intimately familiar with Tinder's mechanics, thanks to their insatiable search for random sex. Projections indicate that turnout would also improve; partly thanks to the improved process, but mostly because a confused segment of the electorate will believe their vote entitles them to random sex.
 

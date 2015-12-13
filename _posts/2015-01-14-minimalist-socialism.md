@@ -6,7 +6,7 @@ thumb: 2015-01-14-minimalist-socialism.png
 
 *A proposed framework for a voluntary Star Trek economy*
 
-![The Vitruvian Blockchain](/assets/2015-01-14-minimalist-socialism.png)
+![The Vitruvian Blockchain]({{ site.url }}/assets/2015-01-14-minimalist-socialism.png)
 
 Given that it's the New Year, I thought I'd start with a more contemplative post instead of the usual satire. Be warned: What follows is nearly 4500 words of intense speculation.
 

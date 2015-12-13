@@ -6,7 +6,7 @@ thumb: 2014-06-11-turing-test.png
 
 *Project leader uses Bayesian inference to deduce he's a real human being, and a real hero* 
 
-![Robot after all](/assets/2014-06-11-turing-test.png)
+![Robot after all]({{ site.url }}/assets/2014-06-11-turing-test.png)
 
 The computer science community was shocked this week when a group at the University of Reading claimed to pass the [Turing Test](http://en.wikipedia.org/wiki/Turing_test) through their algorithm, which faked judges into believing it was a 13-year-old boy named Eugene Goostman. Unfortunately, the team itself did not pass the Turing Test, as evidenced by their willingness to earnestly name an imagined 13-year-old boy Eugene Goostman.
 

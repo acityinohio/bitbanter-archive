@@ -6,7 +6,7 @@ thumb: 2014-06-29-facebook-blogger-emotion.png
 
 *Blogger decries Facebook in polished, A-B tested headline*
 
-![Read all about it](/assets/2014-06-29-facebook-blogger-emotion.png)
+![Read all about it]({{ site.url }}/assets/2014-06-29-facebook-blogger-emotion.png)
 
 After stunning revelations that Facebook conducted a massive psychology experiment with its users---which negatively affected the emotions of millions---22-year-old BuzzFeed technology reporter Blake Stanton was incensed. "OMG guys, we are Facebook's guinea pigs," wrote Stanton, after discarding 13 separate, less-engaging variations of this sentence tested against 1% of BuzzFeed readers.
 

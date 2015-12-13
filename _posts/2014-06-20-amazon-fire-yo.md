@@ -6,7 +6,7 @@ thumb: 2014-06-20-amazon-fire-yo.png
 
 *Amazon Prime now $199/year to subsidize breakthrough new features*
 
-![Fire, Yo](/assets/2014-06-20-amazon-fire-yo.png)
+![Fire, Yo]({{ site.url }}/assets/2014-06-20-amazon-fire-yo.png)
 
 Seattle, WA---In a private event this week, Amazon finally unveiled their oft-rumored smartphone, the Fire Phone. Citing its "magical no-glasses 3D display, streamlined Amazon purchasing functionality, and deep, OS-level Yo integration," Amazon CEO Jeff Bezos was on Fire during the presentation, exciting the normally placid tech press to new levels of hyperbole.
 

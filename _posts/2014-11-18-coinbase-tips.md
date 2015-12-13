@@ -6,7 +6,7 @@ thumb: 2014-11-18-coinbase-tips.png
 
 *Microtips to the rescue!*
 
-![Microdimes](/assets/2014-11-18-coinbase-tips.png)
+![Microdimes]({{ site.url }}/assets/2014-11-18-coinbase-tips.png)
 
 Those of you who occasionally read my missives know how much of a bitcoin fan I am, even when [I make fun of it]({% post_url 2013-07-14-africa-bitcoin %}). I've even convinced an entire room of people to listen to me [drone on about how great it is](http://youtu.be/MLTHrCPQQbQ). But truthfully, while I love what bitcoin can do today, I'm much more excited about its potential for the future---when barriers to entry become lower, when more people have it, and most importantly, when those unknown, as-yet-undiscovered ideas are built on top of bitcoin's blockchain.
 

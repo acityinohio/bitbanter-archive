@@ -6,7 +6,7 @@ thumb: 2014-08-28-golang-depth-map1.png
 
 *Modern art or half-assed depth map visualization? You decide.*
 
-![A not-quite-there-pointcloud](/assets/2014-08-28-golang-depth-map1.png)
+![A not-quite-there-pointcloud]({{ site.url }}/assets/2014-08-28-golang-depth-map1.png)
 
 I had an idea. This is usually a bad idea; when I think I have a good idea, I dedicate myself to sorting it all out until I discover it was, in fact, a bad idea. I know I could break this loop, but I've only seen Primer twice and still don't understand recursion.
 
@@ -223,7 +223,7 @@ return
 
 Short answer...no. The results are lackluster, but frankly I'm just amazed that it worked. I would have attached a full PLY file, but it's 50 MB and I wouldn't do that to Github. Instead, here's an image of my tea thermos front-back-afied from Lens Blur images. I used [Meshlab](http://meshlab.sourceforge.net/) to view it...as you can see, it's a bit garbage.
 
-![Not quite 3d pointcloud view 2](/assets/2014-08-28-golang-depth-map2.png)
+![Not quite 3d pointcloud view 2]({{ site.url }}/assets/2014-08-28-golang-depth-map2.png)
 
 I was hoping this idea would morph into an "Instagram of 3d imaging" product that could steal enough precious user attention away from Facebook that they'd be forced to buy me out, but alas, it's not even close in its current form. Back to the drawing board with user-attention-ransom-based-startups I suppose.
 

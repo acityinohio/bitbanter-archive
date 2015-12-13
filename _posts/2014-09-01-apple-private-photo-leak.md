@@ -6,7 +6,7 @@ thumb: 2014-09-01-apple-private-photo-leak.png
 
 *New product portends Apple's expansion into new entertainment vertical, disregard for privacy*
 
-![Apple photobomb](/assets/2014-09-01-apple-private-photo-leak.png)
+![Apple photobomb]({{ site.url }}/assets/2014-09-01-apple-private-photo-leak.png)
 
 Cupertino and Los Angeles, CA---Today Apple admitted to a soft-launch of a new product just a week before their special event on September 9th, and it already has Google, Samsung, and the Screen Actors' Guild worried. "We call it Find Celebrities' Private Photos," admitted Apple Tim Cook in an unscheduled press conference. "All of our customers have been clamoring for new ways to engage with famous people using iPhones, and boy did we find a way to knock this one out of the park."
 

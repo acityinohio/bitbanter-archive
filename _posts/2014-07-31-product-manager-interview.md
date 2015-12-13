@@ -6,7 +6,7 @@ thumb: 2014-07-31-product-manager-interview.png
 
 *Suggestions on hiring PMs from someone trying to suck less at PM-ing*
 
-![Managing hiring product](/assets/2014-07-31-product-manager-interview.png)
+![Managing hiring product]({{ site.url }}/assets/2014-07-31-product-manager-interview.png)
 
 Note: this is actually not satire. Yes, really. If it reads that way, it's completely unintentional (whoops). Legit advice intended.
 

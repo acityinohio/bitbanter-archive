@@ -6,7 +6,7 @@ thumb: 2015-02-21-a16z-insolvent-software-eats.png
 
 *It ate fucking everything, said Andreessen*
 
-![N01M N01M N01M N01M](/assets/2015-02-21-a16z-insolvent-software-eats.png)
+![N01M N01M N01M N01M]({{ site.url }}/assets/2015-02-21-a16z-insolvent-software-eats.png)
 
 Menlo Park, CA---The world's most prominent venture capital firm collapsed under the weight of its own heady prognostications today, as software ate Andreessen Horowitz out of business. "The hard thing about this hard thing: I saw it happening and could do nothing," said partner Ben Horowitz.
 

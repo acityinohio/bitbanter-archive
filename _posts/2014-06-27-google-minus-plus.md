@@ -6,7 +6,7 @@ thumb: 2014-06-27-google-minus-plus.png
 
 *Google finally proves that if you don't talk about something, it doesn't exist*
 
-![Google Minus Minus](/assets/2014-06-27-google-minus-plus.png)
+![Google Minus Minus]({{ site.url }}/assets/2014-06-27-google-minus-plus.png)
 
 San Francisco, CA---At their annual developer conference, Google introduced its "Google Minus Plus" program, a massive coordinated effort by the search giant to categorically deny Google+'s existence by omission. "Today, we're excited to talk about Android TV, Chromecast, and some incredible updates to the Android platform," said Chrome/Android chief Sundar Pichai, completely neglecting to mention Google+. Still other Google presenters showcased some amazing new tech demos, while refusing to acknowledge the millions of man-hours that went into Google's Facebook clone.
 

@@ -6,7 +6,7 @@ thumb: 2014-07-14-nsa-grave-spinning.png
 
 *Agency continues to transcend morality, mortality*
 
-![CoffinInt](/assets/2014-07-14-nsa-grave-spinning.png)
+![CoffinInt]({{ site.url }}/assets/2014-07-14-nsa-grave-spinning.png)
 
 London, UK---Startling news from the Conference for Investigative Journalism today, as whistle blower William Binney revealed that the National Security Agency records 80% of all phone calls and taps dozens of graves---including George Washington's and George Orwell's---to confirm their occupants are in a state of continuous spin. "This is insanity," commented Edward Snowden, whose corpse will undoubtedly be under NSA surveillance soon. 
 

@@ -6,7 +6,7 @@ thumb: 2014-05-26-amazon-burning.png
 
 *Bezos latest move a bold extension of "Kindle Everything, Everywhere" strategy*
 
-![Amazon Did Start The Fire](/assets/2014-05-26-amazon-burning.png)
+![Amazon Did Start The Fire]({{ site.url }}/assets/2014-05-26-amazon-burning.png)
 
 Seattle, Washington---The growing rift between Amazon and book publishers has reached boiling point (plus 239 degrees) today as the retail giant takes drastic new steps to bolster its negotiating power. While this pricing standoff continues, Amazon has made a firm commitment to incinerate its existing stock of externally published books. Amazon Prime users who ordered any of the offending books will continue to receive two-day shipping---of the charred, ashen remnants of their orders, alongside a personalized letter from Jeff Bezos admonishing them to "Look at What They Did." 
 

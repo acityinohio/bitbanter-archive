@@ -6,7 +6,7 @@ thumb: 2013-07-28-comcast-chromecast.svg
 
 *Customers love the snug fit; Comcast, not so much*
 
-![Oh yeah that's the spot](/assets/2013-07-28-comcast-chromecast.svg)
+![Oh yeah that's the spot]({{ site.url }}/assets/2013-07-28-comcast-chromecast.svg)
 
 Mountain View, CA---Google released the Chromecast earlier this week, delightfully surprising consumers while filling Comcast with the inescapable dread of an inevitable ass-raping. What's got customers trembling with excitement while Comcast desperately searches for Vaseline? The Chromecast, a $35 dongle, enables streaming video from a wide array of Internet-connected devices; all while streaming anti-monopolistic hate-splooge directly into Comcast's exposed, brown-tinted starfish.
 
