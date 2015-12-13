@@ -17,7 +17,6 @@ gems:
 title:            Bitbanter 
 tagline:          Mostly tech satire. Occasionally not.
 description:      Mostly tech satire. Occasionally not.
-url:              "http://bitbanter.com"
 
 author:
   name:           "Josh Cincinnati"
@@ -31,10 +30,7 @@ author:
 version:          1.0.0
 
 github:
-  repo:           https://github.com/acityinohio/acityinohio.github.io 
+  repo:           https://github.com/acityinohio/bitbanter-archive
 
 # List of pages to include in header
 pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
-
-# Add directory for keybase
-include: [".well-known"]
