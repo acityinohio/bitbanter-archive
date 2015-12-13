@@ -8,7 +8,7 @@ title: Home
   <div class="post">
 		{% if post.thumb %} <img src="{{site.url}}/assets/{{ post.thumb }}" /> {% endif %}
     <h3>
-      <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+			<a href="{{ site.url }}{{ post.url }}" target="_blank">{{ post.title }}</a>
     </h3>
 
     <span class="index-post-date">{{ post.date | date: '%B %-d, %Y' }}</span>
