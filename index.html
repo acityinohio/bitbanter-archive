@@ -6,7 +6,7 @@ title: Home
 <div class="posts">
 	{% for post in site.posts limit:10 %}
   <div class="post">
-		{% if post.thumb %} <img src="/assets/{{ post.thumb }}" /> {% endif %}
+		{% if post.thumb %} <img src="{{site.url}}/assets/{{ post.thumb }}" /> {% endif %}
     <h3>
       <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
     </h3>
@@ -16,5 +16,5 @@ title: Home
 		{% if post.excerpt %}{{ post.excerpt }}{% endif %}
   </div>
 	{% endfor %}
-	<div class="index-more">&#8230;for more, try the <a href="/archive/">archive.</a></div>
+	<div class="index-more">&#8230;for more, try the <a href="{{site.url}}/archive/">archive.</a></div>
 </div>
