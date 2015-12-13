@@ -1,10 +1,12 @@
 # Readme
 
+This is the archive of my blog, accessible here: [http://acityinohio.github.io/bitbanter-archive](http://acityinohio.github.io/bitbanter-archive).
+
 -----
 
 My site is a modified version of [Poole](http://demo.getpoole.com), which runs on [Jekyll](http://jekyllrb.com/) and is hosted through [GitHub Pages](https://pages.github.com/).
 
-If you (for whatever reason) want to run my blog locally, you'll have to install Jekyll, then run this while in the root directory of the repo:
+If you (for whatever reason) want to run this archive locally, you'll have to install Jekyll, then run this while in the root directory of the repo:
 
 ```bash
 $ jekyll serve
