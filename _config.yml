@@ -17,6 +17,7 @@ gems:
 title:            Bitbanter 
 tagline:          Mostly tech satire. Occasionally not.
 description:      Mostly tech satire. Occasionally not.
+url:              "https://acityinohio.github.io/bitbanter-archive"
 
 author:
   name:           "Josh Cincinnati"
