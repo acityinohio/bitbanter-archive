@@ -1,13 +1,9 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-
-# Enable smart quotes/dashes
-redcarpet:
-  extensions: ['smart']
 
 # Add sitemap
 gems:
